@@ -1,0 +1,4435 @@
+[
+  {
+    "word": "eloquent",
+    "definition": "Fluent or persuasive in speaking or writing.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈɛləkwənt/",
+    "examples": [
+      "She gave an eloquent speech at the ceremony.",
+      "His words were eloquent and heartfelt.",
+      "The author is known for her eloquent prose.",
+      "He spoke eloquently about the struggles he faced.",
+      "Her eloquent silence said more than words."
+    ]
+  },
+  {
+    "word": "abate",
+    "definition": "To reduce in amount, degree, or intensity.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/əˈbeɪt/",
+    "examples": [
+      "The storm finally began to abate.",
+      "His anger slowly abated over time.",
+      "We waited for the noise to abate before continuing.",
+      "They hoped the pain would abate soon.",
+      "The floodwaters did not abate until morning."
+    ]
+  },
+  {
+    "word": "benevolent",
+    "definition": "Well-meaning and kindly.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/bəˈnɛvələnt/",
+    "examples": [
+      "She was a benevolent leader to her people.",
+      "He gave a benevolent smile to the children.",
+      "Their actions were driven by benevolent intent.",
+      "The organization is funded by a benevolent donor.",
+      "A benevolent attitude can change everything."
+    ]
+  },
+  {
+    "word": "candor",
+    "definition": "The quality of being open and honest in expression.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈkændər/",
+    "examples": [
+      "I appreciate your candor during the meeting.",
+      "Her candor made her a trustworthy friend.",
+      "They spoke with refreshing candor.",
+      "Candor is essential in constructive feedback.",
+      "His candor sometimes came across as bluntness."
+    ]
+  },
+  {
+    "word": "diligent",
+    "definition": "Having or showing care in one's duties or work.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈdɪlɪdʒənt/",
+    "examples": [
+      "She is a diligent student who always meets deadlines.",
+      "He worked diligently on the report.",
+      "A diligent approach leads to success.",
+      "The intern was praised for his diligent efforts.",
+      "Diligent research was key to their discovery."
+    ]
+  },
+  {
+    "word": "emulate",
+    "definition": "To imitate with the intent of matching or surpassing.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈɛmjuˌleɪt/",
+    "examples": [
+      "He tried to emulate his father’s work ethic.",
+      "They emulate successful startups in the industry.",
+      "She emulates the style of classical painters.",
+      "You should emulate the best traits of your mentors.",
+      "The app aims to emulate real-world interactions."
+    ]
+  },
+  {
+    "word": "fortitude",
+    "definition": "Courage in pain or adversity.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈfɔːrtɪtuːd/",
+    "examples": [
+      "She showed great fortitude during the crisis.",
+      "His fortitude helped him overcome illness.",
+      "They admired the fortitude of the survivors.",
+      "With fortitude, they endured the long journey.",
+      "Fortitude is key to facing challenges."
+    ]
+  },
+  {
+    "word": "gregarious",
+    "definition": "Fond of company; sociable.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɡrɪˈɡɛəriəs/",
+    "examples": [
+      "He’s a gregarious guy who loves parties.",
+      "She became more gregarious over time.",
+      "Gregarious people thrive in social settings.",
+      "The gregarious host welcomed everyone warmly.",
+      "His gregarious personality drew people in."
+    ]
+  },
+  {
+    "word": "harbinger",
+    "definition": "A person or thing that announces or signals the approach of another.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈhɑːrbɪndʒər/",
+    "examples": [
+      "Dark clouds are a harbinger of rain.",
+      "She was seen as a harbinger of change.",
+      "The speech was a harbinger of conflict.",
+      "That trend may be a harbinger of future growth.",
+      "Technology is often a harbinger of disruption."
+    ]
+  },
+  {
+    "word": "impetuous",
+    "definition": "Acting quickly without thought or care.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɪmˈpɛtʃuəs/",
+    "examples": [
+      "He made an impetuous decision.",
+      "Her impetuous actions got her into trouble.",
+      "They criticized his impetuous behavior.",
+      "An impetuous investment can be risky.",
+      "She gave an impetuous answer without thinking."
+    ]
+  },
+  {
+    "word": "juxtapose",
+    "definition": "To place side by side for comparison.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˌdʒʌkstəˈpoʊz/",
+    "examples": [
+      "The painting juxtaposes beauty and violence.",
+      "He juxtaposed the old and the new.",
+      "They juxtapose scenes from different cultures.",
+      "Juxtaposing ideas can spark innovation.",
+      "She juxtaposed her dreams with reality."
+    ]
+  },
+  {
+    "word": "kinetic",
+    "definition": "Relating to or resulting from motion.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/kɪˈnɛtɪk/",
+    "examples": [
+      "Kinetic energy increases with speed.",
+      "The sculpture had a kinetic quality.",
+      "Kinetic typography adds motion to text.",
+      "They studied kinetic processes in physics.",
+      "The film's kinetic pace kept viewers engaged."
+    ]
+  },
+  {
+    "word": "lucid",
+    "definition": "Expressed clearly; easy to understand.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈluːsɪd/",
+    "examples": [
+      "She gave a lucid explanation.",
+      "His dreams became lucid.",
+      "That was a lucid moment in the debate.",
+      "The writing is lucid and powerful.",
+      "They appreciated his lucid storytelling."
+    ]
+  },
+  {
+    "word": "meticulous",
+    "definition": "Showing great attention to detail.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/məˈtɪkjʊləs/",
+    "examples": [
+      "He kept meticulous records.",
+      "She painted the room with meticulous care.",
+      "His notes are meticulous and organized.",
+      "The artist is meticulous in his technique.",
+      "Meticulous planning was key to success."
+    ]
+  },
+  {
+    "word": "nefarious",
+    "definition": "Wicked or criminal.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/nɪˈfeəriəs/",
+    "examples": [
+      "He was involved in a nefarious scheme.",
+      "They uncovered a nefarious plot.",
+      "The villain had a nefarious plan.",
+      "His nefarious actions shocked the community.",
+      "That was a nefarious use of power."
+    ]
+  },
+  {
+    "word": "obstinate",
+    "definition": "Stubbornly refusing to change one’s opinion.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈɒbstɪnət/",
+    "examples": [
+      "He remained obstinate in his beliefs.",
+      "The child was obstinate and wouldn't listen.",
+      "Her obstinate refusal delayed the project.",
+      "They fought against his obstinate stance.",
+      "It was an obstinate decision."
+    ]
+  },
+  {
+    "word": "pragmatic",
+    "definition": "Dealing with things sensibly and realistically.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/præɡˈmætɪk/",
+    "examples": [
+      "She took a pragmatic approach.",
+      "They offered pragmatic solutions.",
+      "A pragmatic mindset solves problems.",
+      "He’s known for being pragmatic, not idealistic.",
+      "We need a pragmatic response to this crisis."
+    ]
+  },
+  {
+    "word": "quintessential",
+    "definition": "Representing the most perfect or typical example.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˌkwɪntɪˈsɛnʃəl/",
+    "examples": [
+      "He’s the quintessential gentleman.",
+      "This is a quintessential Italian dish.",
+      "Her outfit is quintessential 90s fashion.",
+      "He played the quintessential hero.",
+      "That moment was quintessential teenage angst."
+    ]
+  },
+  {
+    "word": "resilient",
+    "definition": "Able to recover quickly from difficulties.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/rɪˈzɪliənt/",
+    "examples": [
+      "Children are often resilient.",
+      "She showed resilient strength.",
+      "They’re resilient under pressure.",
+      "The city is resilient after disaster.",
+      "He’s a resilient athlete."
+    ]
+  },
+  {
+    "word": "scrutinize",
+    "definition": "To examine closely and thoroughly.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈskruːtənaɪz/",
+    "examples": [
+      "They scrutinized the contract.",
+      "He scrutinized her reaction.",
+      "The report was heavily scrutinized.",
+      "Inspectors scrutinize each item.",
+      "She scrutinized the details."
+    ]
+  },
+  {
+    "word": "tenacious",
+    "definition": "Holding fast; persistent.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/təˈneɪʃəs/",
+    "examples": [
+      "She is tenacious in her goals.",
+      "His tenacious grip never let go.",
+      "They’re tenacious competitors.",
+      "A tenacious spirit wins battles.",
+      "He remained tenacious despite setbacks."
+    ]
+  },
+  {
+    "word": "ubiquitous",
+    "definition": "Present or found everywhere.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/juːˈbɪkwɪtəs/",
+    "examples": [
+      "Smartphones are ubiquitous today.",
+      "He wore a ubiquitous smile.",
+      "Wi-Fi is ubiquitous in cities.",
+      "Cameras are ubiquitous in public spaces.",
+      "Brand logos are ubiquitous in media."
+    ]
+  },
+  {
+    "word": "venerate",
+    "definition": "To regard with great respect.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈvɛnəreɪt/",
+    "examples": [
+      "They venerate their ancestors.",
+      "He was venerated as a hero.",
+      "Scholars venerate ancient texts.",
+      "They venerated her leadership.",
+      "Venerating traditions can preserve culture."
+    ]
+  },
+  {
+    "word": "wary",
+    "definition": "Feeling or showing caution.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈweəri/",
+    "examples": [
+      "She was wary of strangers.",
+      "He gave a wary glance.",
+      "Be wary of scams.",
+      "They were wary after the incident.",
+      "A wary attitude is sometimes wise."
+    ]
+  },
+  {
+    "word": "zealous",
+    "definition": "Having great energy or enthusiasm.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈzɛləs/",
+    "examples": [
+      "She is zealous about her work.",
+      "His zealous fans cheered loudly.",
+      "They launched a zealous campaign.",
+      "Zealous efforts can inspire others.",
+      "He’s zealous in his beliefs."
+    ]
+  },
+  {
+    "word": "altruistic",
+    "definition": "Showing a selfless concern for the well-being of others.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˌæltruˈɪstɪk/",
+    "examples": [
+      "Her altruistic nature inspired everyone around her.",
+      "He made an altruistic decision to donate anonymously.",
+      "Altruistic behavior is valued in many cultures.",
+      "They admired his altruistic commitment to helping others.",
+      "The organization thrives on altruistic volunteers."
+    ]
+  },
+  {
+    "word": "belligerent",
+    "definition": "Hostile and aggressive.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/bəˈlɪdʒərənt/",
+    "examples": [
+      "His belligerent tone sparked tension in the room.",
+      "The countries were in a belligerent standoff.",
+      "She grew belligerent when questioned.",
+      "Belligerent behavior isn’t tolerated here.",
+      "They acted in a belligerent manner at the protest."
+    ]
+  },
+  {
+    "word": "coerce",
+    "definition": "To persuade someone to do something by using force or threats.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/koʊˈɜːrs/",
+    "examples": [
+      "He was coerced into signing the document.",
+      "They tried to coerce her into staying.",
+      "No one should be coerced against their will.",
+      "The confession was coerced.",
+      "Coercing others is unethical."
+    ]
+  },
+  {
+    "word": "daunting",
+    "definition": "Seeming difficult to deal with in anticipation.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈdɔːntɪŋ/",
+    "examples": [
+      "Climbing the mountain was a daunting task.",
+      "Starting a business can be daunting.",
+      "The interview felt daunting at first.",
+      "He faced a daunting challenge at work.",
+      "The exam schedule looked daunting."
+    ]
+  },
+  {
+    "word": "eclectic",
+    "definition": "Deriving ideas or style from a broad range of sources.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɪˈklɛktɪk/",
+    "examples": [
+      "She has an eclectic taste in music.",
+      "His artwork is known for its eclectic mix of styles.",
+      "They curated an eclectic collection of books.",
+      "The restaurant offers an eclectic menu.",
+      "He wore an eclectic outfit to the event."
+    ]
+  },
+  {
+    "word": "futile",
+    "definition": "Incapable of producing any useful result; pointless.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈfjuːtaɪl/",
+    "examples": [
+      "All efforts to revive the plant were futile.",
+      "It’s futile to argue with him.",
+      "She realized the attempt was futile.",
+      "Their efforts proved futile in the end.",
+      "A futile gesture won't change the outcome."
+    ]
+  },
+  {
+    "word": "hinder",
+    "definition": "To make it difficult for someone to do something.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈhɪndər/",
+    "examples": [
+      "The storm may hinder rescue operations.",
+      "Noise can hinder concentration.",
+      "His injuries hindered his performance.",
+      "Policies that hinder growth should be revised.",
+      "Don't let fear hinder your dreams."
+    ]
+  },
+  {
+    "word": "innate",
+    "definition": "Inborn; natural.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɪˈneɪt/",
+    "examples": [
+      "She has an innate ability to lead.",
+      "Creativity is an innate trait in him.",
+      "Their talent seemed innate rather than learned.",
+      "He responded with innate kindness.",
+      "Innate intelligence can be nurtured with effort."
+    ]
+  },
+  {
+    "word": "jargon",
+    "definition": "Special words or expressions used by a particular group.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈdʒɑːrɡən/",
+    "examples": [
+      "Legal jargon can be hard to understand.",
+      "He spoke in technical jargon.",
+      "Avoid using too much jargon in your writing.",
+      "They explained the jargon to new employees.",
+      "Jargon often confuses outsiders."
+    ]
+  },
+  {
+    "word": "lament",
+    "definition": "To mourn or express sorrow.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ləˈmɛnt/",
+    "examples": [
+      "She lamented the loss of her childhood home.",
+      "They lamented the closing of the bookstore.",
+      "The poem laments lost love.",
+      "He lamented over his missed opportunity.",
+      "They lament the state of the environment."
+    ]
+  },
+  {
+    "word": "mundane",
+    "definition": "Lacking interest or excitement; dull.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/mʌnˈdeɪn/",
+    "examples": [
+      "He was tired of his mundane routine.",
+      "She found joy in the mundane.",
+      "The job was repetitive and mundane.",
+      "Mundane tasks can be meditative.",
+      "They discussed mundane matters over coffee."
+    ]
+  },
+  {
+    "word": "novice",
+    "definition": "A person new to a field or activity.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈnɒvɪs/",
+    "examples": [
+      "She is a novice at painting.",
+      "Even a novice can use this app.",
+      "He joined the class as a complete novice.",
+      "The novice was eager to learn.",
+      "Don't expect perfection from a novice."
+    ]
+  },
+  {
+    "word": "opaque",
+    "definition": "Not transparent; hard to understand.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/oʊˈpeɪk/",
+    "examples": [
+      "The window glass was opaque with dust.",
+      "His explanation was opaque and confusing.",
+      "Opaque writing lacks clarity.",
+      "The meaning was deliberately opaque.",
+      "She gave an opaque response."
+    ]
+  },
+  {
+    "word": "paradox",
+    "definition": "A statement that contradicts itself but may be true.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈpærədɒks/",
+    "examples": [
+      "It's a paradox that the best teachers keep learning.",
+      "The paradox lies in simplicity and complexity.",
+      "This situation presents a moral paradox.",
+      "He lived a paradox of wealth and misery.",
+      "Science often reveals paradoxes in nature."
+    ]
+  },
+  {
+    "word": "quell",
+    "definition": "To suppress or put an end to.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/kwɛl/",
+    "examples": [
+      "Police were called to quell the protest.",
+      "She tried to quell her anxiety.",
+      "He quelled the rumor quickly.",
+      "The leader sought to quell unrest.",
+      "They quelled the rebellion decisively."
+    ]
+  },
+  {
+    "word": "rhetoric",
+    "definition": "The art of effective speaking or writing.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈrɛtərɪk/",
+    "examples": [
+      "His speech was full of political rhetoric.",
+      "She admired his persuasive rhetoric.",
+      "Rhetoric without action is meaningless.",
+      "They used rhetoric to sway the audience.",
+      "The debate was heavy on rhetoric but light on facts."
+    ]
+  },
+  {
+    "word": "stoic",
+    "definition": "Enduring pain without showing emotion.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈstoʊɪk/",
+    "examples": [
+      "He remained stoic during the chaos.",
+      "She gave a stoic response to the news.",
+      "The soldier's face was stoic.",
+      "He endured the injury with stoic resolve.",
+      "A stoic attitude helped her through hardship."
+    ]
+  },
+  {
+    "word": "tirade",
+    "definition": "A long, angry speech of criticism.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈtaɪreɪd/",
+    "examples": [
+      "He launched into a tirade about corruption.",
+      "Her tirade shocked the entire room.",
+      "Tired of the tirade, they walked away.",
+      "The boss's tirade was uncalled for.",
+      "She listened to his tirade silently."
+    ]
+  },
+  {
+    "word": "usurp",
+    "definition": "To take a position of power illegally or by force.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/juːˈzɜːrp/",
+    "examples": [
+      "The general tried to usurp power from the king.",
+      "They usurped control of the company.",
+      "Usurping authority led to chaos.",
+      "He attempted to usurp her role.",
+      "The throne was usurped by his brother."
+    ]
+  },
+  {
+    "word": "vindicate",
+    "definition": "To clear someone of blame or suspicion.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈvɪndɪkeɪt/",
+    "examples": [
+      "The evidence vindicated her.",
+      "He felt vindicated after the truth came out.",
+      "The decision vindicated the protesters.",
+      "They were finally vindicated.",
+      "The court vindicated the wrongly accused."
+    ]
+  },
+  {
+    "word": "writhe",
+    "definition": "To twist or contort in pain or discomfort.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/raɪð/",
+    "examples": [
+      "He writhed in pain on the floor.",
+      "The snake writhed in the grass.",
+      "She writhed at the thought of failure.",
+      "He writhed under pressure.",
+      "They watched her writhe with guilt."
+    ]
+  },
+  {
+    "word": "zenith",
+    "definition": "The highest point or peak.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈziːnɪθ/",
+    "examples": [
+      "She was at the zenith of her career.",
+      "The sun reached its zenith at noon.",
+      "His fame hit its zenith in 2000.",
+      "That victory marked their zenith.",
+      "Zenith moments are rare."
+    ]
+  },
+  {
+    "word": "austere",
+    "definition": "Severe or strict in manner or appearance.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɔːˈstɪər/",
+    "examples": [
+      "The monk lived an austere life.",
+      "Her style was elegant but austere.",
+      "The room was austere and bare.",
+      "He gave an austere warning.",
+      "Austere measures were taken to reduce debt."
+    ]
+  },
+  {
+    "word": "banter",
+    "definition": "Playful and friendly exchange of teasing remarks.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈbæntər/",
+    "examples": [
+      "They enjoyed some light banter before the meeting.",
+      "Friendly banter kept the mood light.",
+      "He joined the banter with a joke.",
+      "Banter can break the ice.",
+      "The banter turned into a heated debate."
+    ]
+  },
+  {
+    "word": "capricious",
+    "definition": "Given to sudden changes of mood or behavior.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/kəˈprɪʃəs/",
+    "examples": [
+      "Her capricious moods made her hard to predict.",
+      "The stock market can be capricious.",
+      "He made a capricious decision without consulting anyone.",
+      "She’s known for her capricious fashion sense.",
+      "Capricious leadership leads to confusion."
+    ]
+  },
+  {
+    "word": "dearth",
+    "definition": "A scarcity or lack of something.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/dɜːrθ/",
+    "examples": [
+      "There’s a dearth of skilled laborers.",
+      "The dearth of fresh water was alarming.",
+      "A dearth of creativity held the project back.",
+      "We faced a dearth of good ideas.",
+      "The town suffered from a dearth of resources."
+    ]
+  },
+  {
+    "word": "embezzle",
+    "definition": "To steal money one has been entrusted with.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ɪmˈbɛzl/",
+    "examples": [
+      "He was jailed for embezzling public funds.",
+      "She embezzled millions from her employer.",
+      "The accountant embezzled quietly for years.",
+      "They caught him trying to embezzle company money.",
+      "Embezzling can ruin reputations and careers."
+    ]
+  },
+  {
+    "word": "fervent",
+    "definition": "Having or displaying a passionate intensity.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈfɜːrvənt/",
+    "examples": [
+      "She’s a fervent supporter of the movement.",
+      "He delivered a fervent speech.",
+      "Their fervent beliefs fueled their actions.",
+      "Fervent prayers filled the hall.",
+      "He wrote with fervent conviction."
+    ]
+  },
+  {
+    "word": "gregarious",
+    "definition": "Fond of company; sociable.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɡrɪˈɡɛəriəs/",
+    "examples": [
+      "He’s naturally gregarious and loves social events.",
+      "The gregarious dog loved attention.",
+      "She became more gregarious after college.",
+      "Gregarious people thrive in large groups.",
+      "He was praised for his gregarious charm."
+    ]
+  },
+  {
+    "word": "heinous",
+    "definition": "Utterly wicked or evil.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈheɪnəs/",
+    "examples": [
+      "The court punished his heinous crime.",
+      "It was a heinous act of violence.",
+      "He faced charges for a heinous assault.",
+      "Her betrayal was considered heinous.",
+      "The documentary covered heinous historical events."
+    ]
+  },
+  {
+    "word": "impasse",
+    "definition": "A situation with no progress possible; a deadlock.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈɪmpæs/",
+    "examples": [
+      "Negotiations reached an impasse.",
+      "They faced a political impasse.",
+      "The debate ended in an impasse.",
+      "We hit an impasse over the budget.",
+      "An impasse can only be broken by compromise."
+    ]
+  },
+  {
+    "word": "juxtapose",
+    "definition": "To place things side by side for contrast.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˌdʒʌkstəˈpoʊz/",
+    "examples": [
+      "The artist juxtaposed light and dark.",
+      "They juxtaposed modern art with ancient pieces.",
+      "Her outfit juxtaposed textures beautifully.",
+      "Juxtaposing cultures reveals common traits.",
+      "He juxtaposed peace and chaos in his novel."
+    ]
+  },
+  {
+    "word": "kinetic",
+    "definition": "Relating to motion.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/kɪˈnɛtɪk/",
+    "examples": [
+      "Kinetic energy powers the machine.",
+      "The painting had a kinetic quality.",
+      "She created a kinetic sculpture.",
+      "Kinetic learning involves physical activity.",
+      "The movie had a kinetic pace."
+    ]
+  },
+  {
+    "word": "laconic",
+    "definition": "Using few words; concise.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ləˈkɒnɪk/",
+    "examples": [
+      "He gave a laconic response.",
+      "Her laconic style is admired.",
+      "The message was brief and laconic.",
+      "Laconic speech can be powerful.",
+      "They communicated in a laconic manner."
+    ]
+  },
+  {
+    "word": "malaise",
+    "definition": "A general feeling of discomfort or unease.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/məˈleɪz/",
+    "examples": [
+      "There’s a sense of malaise in the country.",
+      "He felt a growing malaise about work.",
+      "The malaise lingered for weeks.",
+      "Economic malaise spread across the region.",
+      "A societal malaise set in after the crisis."
+    ]
+  },
+  {
+    "word": "nefarious",
+    "definition": "Wicked or criminal.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/nɪˈfeəriəs/",
+    "examples": [
+      "He had a nefarious plot in mind.",
+      "The villain’s nefarious deeds shocked everyone.",
+      "They were involved in a nefarious scheme.",
+      "The nefarious plan was exposed.",
+      "Such nefarious behavior can't go unpunished."
+    ]
+  },
+  {
+    "word": "obfuscate",
+    "definition": "To make something unclear or unintelligible.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈɒbfəskeɪt/",
+    "examples": [
+      "The report obfuscated the real issue.",
+      "He tried to obfuscate the facts.",
+      "Legal jargon can obfuscate meaning.",
+      "She used big words to obfuscate.",
+      "Obfuscation can be deliberate or accidental."
+    ]
+  },
+  {
+    "word": "panacea",
+    "definition": "A solution for all problems or diseases.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌpænəˈsiːə/",
+    "examples": [
+      "There is no panacea for poverty.",
+      "Technology is not a panacea.",
+      "They seek a panacea that doesn't exist.",
+      "Panaceas rarely solve complex issues.",
+      "A panacea may sound ideal but often fails."
+    ]
+  },
+  {
+    "word": "quintessential",
+    "definition": "Representing the most perfect example of something.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˌkwɪntɪˈsɛnʃəl/",
+    "examples": [
+      "She’s the quintessential leader.",
+      "That was a quintessential summer day.",
+      "He’s the quintessential romantic.",
+      "It was a quintessential example of success.",
+      "Her style is quintessentially French."
+    ]
+  },
+  {
+    "word": "rescind",
+    "definition": "To revoke or cancel officially.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/rɪˈsɪnd/",
+    "examples": [
+      "The offer was rescinded.",
+      "He rescinded the agreement.",
+      "They want to rescind the law.",
+      "She rescinded her previous statement.",
+      "The board rescinded the contract."
+    ]
+  },
+  {
+    "word": "sanguine",
+    "definition": "Optimistic or positive in a bad situation.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈsæŋɡwɪn/",
+    "examples": [
+      "He remained sanguine despite the crisis.",
+      "She was sanguine about the outcome.",
+      "His sanguine attitude inspired hope.",
+      "They took a sanguine view of the problem.",
+      "She spoke in a sanguine tone."
+    ]
+  },
+  {
+    "word": "tenuous",
+    "definition": "Very weak or slight.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈtɛnjuəs/",
+    "examples": [
+      "Their connection was tenuous.",
+      "The evidence was tenuous at best.",
+      "He held a tenuous grip on reality.",
+      "Tenuous arguments won’t convince anyone.",
+      "The alliance was tenuous and short-lived."
+    ]
+  },
+  {
+    "word": "ubiquitous",
+    "definition": "Present everywhere at the same time.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/juːˈbɪkwɪtəs/",
+    "examples": [
+      "Smartphones are ubiquitous today.",
+      "His influence is ubiquitous.",
+      "Wi-Fi is becoming ubiquitous.",
+      "The brand is ubiquitous in media.",
+      "Their presence was ubiquitous at the event."
+    ]
+  },
+  {
+    "word": "vicarious",
+    "definition": "Experienced through someone else's actions.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/vaɪˈkɛəriəs/",
+    "examples": [
+      "He felt vicarious joy through his child.",
+      "She lives vicariously through novels.",
+      "They took vicarious pleasure in his success.",
+      "A vicarious thrill ran through him.",
+      "Parents often feel vicarious pride."
+    ]
+  },
+  {
+    "word": "wan",
+    "definition": "Pale and giving the impression of illness or exhaustion.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/wɒn/",
+    "examples": [
+      "She looked wan after the illness.",
+      "His wan face worried the doctor.",
+      "She gave a wan smile.",
+      "The child appeared wan and tired.",
+      "He seemed wan in the morning."
+    ]
+  },
+  {
+    "word": "xenophobia",
+    "definition": "Dislike or prejudice against people from other countries.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌzɛnəˈfəʊbiə/",
+    "examples": [
+      "Xenophobia is rising globally.",
+      "She condemned xenophobic policies.",
+      "The crowd’s xenophobia was alarming.",
+      "Xenophobia fuels social division.",
+      "Education combats xenophobia."
+    ]
+  },
+  {
+    "word": "yearn",
+    "definition": "To have a strong desire for something.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/jɜːrn/",
+    "examples": [
+      "He yearned for freedom.",
+      "She yearns to see her homeland again.",
+      "They yearned for a simpler life.",
+      "The child yearned for attention.",
+      "He yearned silently."
+    ]
+  },
+  {
+    "word": "zealous",
+    "definition": "Showing great energy or enthusiasm in pursuit of a cause.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈzɛləs/",
+    "examples": [
+      "The activist was zealous in her campaign.",
+      "He’s a zealous supporter of the law.",
+      "They were zealous about their work.",
+      "Zealous followers crowded the stadium.",
+      "Her zealous efforts paid off."
+    ]
+  },
+  {
+    "word": "aberration",
+    "definition": "A departure from what is normal or expected.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌæbəˈreɪʃən/",
+    "examples": [
+      "The outburst was an aberration.",
+      "His calm behavior was an aberration.",
+      "A warm winter is an aberration here.",
+      "Her score was an aberration from the norm.",
+      "Such mistakes are rare aberrations."
+    ]
+  },
+  {
+    "word": "bellicose",
+    "definition": "Demonstrating aggression and willingness to fight.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈbɛlɪkəʊs/",
+    "examples": [
+      "His bellicose tone alarmed the diplomats.",
+      "Bellicose nations threaten peace.",
+      "She had a bellicose attitude during debates.",
+      "The speech was unexpectedly bellicose.",
+      "Bellicose rhetoric can escalate conflict."
+    ]
+  },
+  {
+    "word": "cajole",
+    "definition": "To persuade through flattery or coaxing.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/kəˈdʒəʊl/",
+    "examples": [
+      "He cajoled her into going to the party.",
+      "She cajoled the guard into letting her pass.",
+      "They cajoled money from the investors.",
+      "He tried to cajole his way out of trouble.",
+      "No amount of cajoling changed her mind."
+    ]
+  },
+  {
+    "word": "debacle",
+    "definition": "A sudden and ignominious failure; a fiasco.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/dɪˈbɑːkəl/",
+    "examples": [
+      "The event was a total debacle.",
+      "Their campaign ended in a debacle.",
+      "The debacle embarrassed everyone involved.",
+      "It was a financial debacle.",
+      "They struggled to recover from the debacle."
+    ]
+  },
+  {
+    "word": "edify",
+    "definition": "To instruct or improve someone morally or intellectually.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈɛdɪfaɪ/",
+    "examples": [
+      "The story was meant to edify the audience.",
+      "She edified the students through example.",
+      "A good book can edify and entertain.",
+      "He edifies others with his wisdom.",
+      "The lecture was both edifying and inspiring."
+    ]
+  },
+  {
+    "word": "facade",
+    "definition": "An outward appearance that conceals a less pleasant reality.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/fəˈsɑːd/",
+    "examples": [
+      "Behind her cheerful facade was deep sadness.",
+      "The building's facade was beautifully restored.",
+      "He maintained a facade of confidence.",
+      "Don't be fooled by the facade.",
+      "They lived behind a facade of wealth."
+    ]
+  },
+  {
+    "word": "gaffe",
+    "definition": "An unintentional act or remark causing embarrassment.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ɡæf/",
+    "examples": [
+      "He apologized for the gaffe.",
+      "It was a political gaffe.",
+      "Her gaffe went viral.",
+      "The gaffe cost him the job.",
+      "One gaffe can ruin a reputation."
+    ]
+  },
+  {
+    "word": "harangue",
+    "definition": "A lengthy and aggressive speech.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/həˈræŋ/",
+    "examples": [
+      "He launched into a harangue.",
+      "The manager’s harangue stunned the team.",
+      "Her harangue lasted twenty minutes.",
+      "He delivered a fiery harangue.",
+      "We endured another long harangue."
+    ]
+  },
+  {
+    "word": "iconoclast",
+    "definition": "A person who attacks cherished beliefs or institutions.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/aɪˈkɒnəklæst/",
+    "examples": [
+      "He was known as an iconoclast.",
+      "Iconoclasts challenge traditions.",
+      "She was an artistic iconoclast.",
+      "The iconoclast was not welcomed.",
+      "His views were iconoclastic and bold."
+    ]
+  },
+  {
+    "word": "jargon",
+    "definition": "Special words used by a group that are difficult for others to understand.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈdʒɑːɡən/",
+    "examples": [
+      "Legal jargon confused the client.",
+      "He used medical jargon unnecessarily.",
+      "Avoid jargon in public writing.",
+      "The document was full of jargon.",
+      "Tech jargon made the talk inaccessible."
+    ]
+  },
+  {
+    "word": "knell",
+    "definition": "A sound or event that signals death or failure.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/nɛl/",
+    "examples": [
+      "The bell tolled a mournful knell.",
+      "The bankruptcy was a knell for the company.",
+      "His words sounded the knell of hope.",
+      "It was the knell of their partnership.",
+      "The silence was a death knell."
+    ]
+  },
+  {
+    "word": "lurid",
+    "definition": "Very vivid, especially so as to create an unpleasantly harsh effect.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈlʊərɪd/",
+    "examples": [
+      "The movie was too lurid for children.",
+      "Lurid headlines filled the tabloids.",
+      "The painting had lurid colors.",
+      "He told a lurid story.",
+      "Lurid details shocked the audience."
+    ]
+  },
+  {
+    "word": "morose",
+    "definition": "Sullen and ill-tempered.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/məˈrəʊs/",
+    "examples": [
+      "She looked morose after the breakup.",
+      "He was morose and silent.",
+      "The mood turned morose.",
+      "His morose attitude was concerning.",
+      "She gave a morose reply."
+    ]
+  },
+  {
+    "word": "nonchalant",
+    "definition": "Calm and unconcerned.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˌnɒnʃəˈlɑːnt/",
+    "examples": [
+      "He acted nonchalant under pressure.",
+      "Her nonchalant response surprised me.",
+      "He walked in with a nonchalant smile.",
+      "She gave a nonchalant shrug.",
+      "Nonchalance can hide anxiety."
+    ]
+  },
+  {
+    "word": "ostracize",
+    "definition": "To exclude someone from a group or society.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈɒstrəsaɪz/",
+    "examples": [
+      "He was ostracized for speaking out.",
+      "They ostracized her from the team.",
+      "Society often ostracizes the different.",
+      "He felt ostracized by his peers.",
+      "Ostracizing can have lasting effects."
+    ]
+  },
+  {
+    "word": "placate",
+    "definition": "To calm or appease someone.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈpleɪkeɪt/",
+    "examples": [
+      "She placated the angry customer.",
+      "He tried to placate his critics.",
+      "The gift helped placate her.",
+      "They placated the mob with promises.",
+      "Nothing could placate him."
+    ]
+  },
+  {
+    "word": "quibble",
+    "definition": "To argue or raise objections about a trivial matter.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈkwɪbəl/",
+    "examples": [
+      "Let’s not quibble over details.",
+      "They quibbled about the bill.",
+      "He quibbles over every word.",
+      "She quibbled about the color.",
+      "They always quibble over nonsense."
+    ]
+  },
+  {
+    "word": "reticent",
+    "definition": "Not revealing one's thoughts or feelings easily.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈrɛtɪsənt/",
+    "examples": [
+      "He was reticent about his past.",
+      "She remained reticent during the meeting.",
+      "Reticent people are hard to read.",
+      "He gave a reticent smile.",
+      "The witness was reticent at first."
+    ]
+  },
+  {
+    "word": "scrupulous",
+    "definition": "Very careful and attentive to detail; moral integrity.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈskruːpjʊləs/",
+    "examples": [
+      "She is scrupulous in her work.",
+      "He is scrupulous about accuracy.",
+      "A scrupulous person won’t lie.",
+      "He followed the law scrupulously.",
+      "They maintained scrupulous records."
+    ]
+  },
+  {
+    "word": "tirade",
+    "definition": "A long, angry speech of criticism.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈtaɪreɪd/",
+    "examples": [
+      "He launched into a tirade.",
+      "She endured her boss’s tirade.",
+      "The coach gave a tirade after the loss.",
+      "He went on a political tirade.",
+      "Everyone fell silent after his tirade."
+    ]
+  },
+  {
+    "word": "usurp",
+    "definition": "To take power or position by force or without right.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/juːˈzɜːp/",
+    "examples": [
+      "He usurped the throne.",
+      "The general usurped political power.",
+      "They tried to usurp her authority.",
+      "Power was usurped in a coup.",
+      "He usurped control without permission."
+    ]
+  },
+  {
+    "word": "vex",
+    "definition": "To annoy, frustrate, or worry.",
+    "partOfSpeech": "verb",
+    "pronunciation": "/vɛks/",
+    "examples": [
+      "His attitude vexed me.",
+      "She was vexed by the noise.",
+      "The delays vexed commuters.",
+      "He gets vexed easily.",
+      "Vexing problems kept appearing."
+    ]
+  },
+  {
+    "word": "wily",
+    "definition": "Skilled at gaining advantage, especially deceitfully.",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈwaɪli/",
+    "examples": [
+      "He’s a wily negotiator.",
+      "The fox is known for being wily.",
+      "Wily tactics won the game.",
+      "She gave a wily smile.",
+      "A wily opponent is dangerous."
+    ]
+  },
+  {
+    "word": "yoke",
+    "definition": "To join together or to burden (literally or figuratively).",
+    "partOfSpeech": "verb",
+    "pronunciation": "/jəʊk/",
+    "examples": [
+      "The oxen were yoked together.",
+      "They yoked tradition with innovation.",
+      "He was yoked to his responsibilities.",
+      "The nations were yoked by treaties.",
+      "She refused to be yoked by expectations."
+    ]
+  },
+  {
+    "word": "zealot",
+    "definition": "A person who is fanatical about a cause.",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈzɛlət/",
+    "examples": [
+      "He was seen as a religious zealot.",
+      "Zealots often ignore reason.",
+      "Political zealots can be dangerous.",
+      "The zealot refused to compromise.",
+      "She was a zealot for justice."
+    ]
+  },
+  {
+    "word": "copacetic",
+    "definition": "In excellent order; completely satisfactory.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˌkoʊ.pəˈsɛ.tɪk/",
+    "examples": [
+      "Everything was copacetic at the wedding reception.",
+      "He checked to see if the engine was copacetic before driving.",
+      "Despite the delay, the team kept things copacetic.",
+      "She assured us that the situation was copacetic.",
+      "The project manager confirmed that all systems were copacetic."
+    ]
+  },
+  {
+    "word": "lucid",
+    "definition": "Expressed clearly; easy to understand.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈluː.sɪd/",
+    "examples": [
+      "She gave a lucid explanation of the theory.",
+      "His writing is always clear and lucid.",
+      "During the interview, her answers were lucid and concise.",
+      "The manual provides a lucid overview of the system.",
+      "He had a brief but lucid moment of clarity."
+    ]
+  },
+  {
+    "word": "harrowing",
+    "definition": "Extremely distressing or painful.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈhær.oʊ.ɪŋ/",
+    "examples": [
+      "The survivors recounted their harrowing experience.",
+      "It was a harrowing ordeal that left scars.",
+      "She read a harrowing tale of escape.",
+      "The footage from the war was harrowing to watch.",
+      "He survived a harrowing night alone in the forest."
+    ]
+  },
+  {
+    "word": "ephemeral",
+    "definition": "Lasting for a very short time.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ɪˈfem.ər.əl/",
+    "examples": [
+      "Fame in the digital age is often ephemeral.",
+      "The beauty of a sunset is ephemeral.",
+      "Their relationship was intense but ephemeral.",
+      "Trends on social media are notoriously ephemeral.",
+      "He enjoyed the ephemeral nature of cherry blossom season."
+    ]
+  },
+  {
+    "word": "pedantic",
+    "definition": "Excessively concerned with minor details or rules.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/pəˈdæn.tɪk/",
+    "examples": [
+      "His pedantic approach annoyed his peers.",
+      "She gave a pedantic correction of every error.",
+      "The professor's pedantic tone made lectures dull.",
+      "He's too pedantic to tolerate shortcuts.",
+      "Avoid sounding pedantic during casual discussions."
+    ]
+  },
+  {
+    "word": "taciturn",
+    "definition": "Reserved or uncommunicative in speech.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈtæs.ɪ.tɜrn/",
+    "examples": [
+      "The taciturn man rarely spoke in meetings.",
+      "She remained taciturn despite the questions.",
+      "His taciturn demeanor made him seem distant.",
+      "People mistook his taciturnity for arrogance.",
+      "The witness was unusually taciturn on the stand."
+    ]
+  },
+  {
+    "word": "voracious",
+    "definition": "Having a very eager approach to an activity; excessively hungry.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/vəˈreɪ.ʃəs/",
+    "examples": [
+      "She’s a voracious reader of mystery novels.",
+      "He had a voracious appetite after the hike.",
+      "Their team showed a voracious desire to win.",
+      "The child’s voracious curiosity led to constant questions.",
+      "His voracious ambition drove him to succeed."
+    ]
+  },
+  {
+    "word": "cursory",
+    "definition": "Hasty and therefore not thorough or detailed.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈkɜː.sər.i/",
+    "examples": [
+      "He gave a cursory glance at the report.",
+      "The editor’s review was too cursory.",
+      "She made only a cursory inspection of the car.",
+      "A cursory search yielded no results.",
+      "Don’t rely on cursory observations."
+    ]
+  },
+  {
+    "word": "quandary",
+    "definition": "A state of perplexity or doubt.",
+    "part_of_speech": "noun",
+    "pronunciation": "/ˈkwɒn.d(ə)r.i/",
+    "examples": [
+      "She was in a quandary about accepting the offer.",
+      "The ethical quandary troubled him.",
+      "They faced a financial quandary.",
+      "His silence left her in a quandary.",
+      "The court was in a legal quandary over the case."
+    ]
+  },
+  {
+    "word": "ostentatious",
+    "definition": "Characterized by vulgar or pretentious display.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˌɒs.tenˈteɪ.ʃəs/",
+    "examples": [
+      "The mansion was decorated in an ostentatious style.",
+      "He wore an ostentatious gold watch.",
+      "Their ostentatious spending drew criticism.",
+      "She disliked ostentatious displays of wealth.",
+      "The award ceremony was unnecessarily ostentatious."
+    ]
+  },
+  {
+    "word": "conundrum",
+    "definition": "A confusing and difficult problem or question.",
+    "part_of_speech": "noun",
+    "pronunciation": "/kəˈnʌn.drəm/",
+    "examples": [
+      "The refugee crisis remains a global conundrum.",
+      "They were caught in a moral conundrum.",
+      "Solving the puzzle posed a real conundrum.",
+      "He presented a conundrum during the debate.",
+      "The legal system is full of ethical conundrums."
+    ]
+  },
+  {
+    "word": "cacophony",
+    "definition": "A harsh discordant mixture of sounds.",
+    "part_of_speech": "noun",
+    "pronunciation": "/kəˈkɒf.ə.ni/",
+    "examples": [
+      "The city’s traffic was a cacophony of horns.",
+      "A cacophony of voices filled the auditorium.",
+      "They endured a cacophony of alarm bells.",
+      "His band was known for its musical cacophony.",
+      "Cacophony erupted as the fire drill began."
+    ]
+  },
+  {
+    "word": "acrimony",
+    "definition": "Bitterness or ill feeling.",
+    "part_of_speech": "noun",
+    "pronunciation": "/ˈæk.rɪ.mə.ni/",
+    "examples": [
+      "The debate ended in acrimony.",
+      "There was visible acrimony between the two leaders.",
+      "The divorce was filled with acrimony.",
+      "Acrimony grew during the negotiations.",
+      "He spoke with acrimony about his former employer."
+    ]
+  },
+  {
+    "word": "resilient",
+    "definition": "Able to recover quickly from difficulties.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/rɪˈzɪl.jənt/",
+    "examples": [
+      "She is resilient in the face of setbacks.",
+      "The economy proved to be surprisingly resilient.",
+      "Children can be incredibly resilient.",
+      "A resilient attitude helps in tough times.",
+      "They built a resilient supply chain."
+    ]
+  },
+  {
+    "word": "zenith",
+    "definition": "The highest point or peak.",
+    "part_of_speech": "noun",
+    "pronunciation": "/ˈziː.nɪθ/",
+    "examples": [
+      "She was at the zenith of her career.",
+      "The sun reached its zenith at noon.",
+      "His fame peaked at the zenith of the movement.",
+      "They reached the zenith of success in 2020.",
+      "The company’s zenith didn’t last long."
+    ]
+  },
+  {
+    "word": "cogent",
+    "definition": "Clear, logical, and convincing.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈkoʊ.dʒənt/",
+    "examples": [
+      "Her argument was cogent and persuasive.",
+      "He made a cogent case for reform.",
+      "The proposal was both simple and cogent.",
+      "A cogent explanation is all it takes.",
+      "The judge praised the lawyer’s cogent reasoning."
+    ]
+  },
+  {
+    "word": "idiosyncrasy",
+    "definition": "A mode of behavior or thought peculiar to an individual.",
+    "part_of_speech": "noun",
+    "pronunciation": "/ˌɪd.i.əˈsɪŋ.krə.si/",
+    "examples": [
+      "His idiosyncrasy is drinking coffee before dinner.",
+      "Every writer has their own idiosyncrasy.",
+      "The artist’s idiosyncrasies were part of his charm.",
+      "She has a few idiosyncrasies that make her unique.",
+      "They embraced his idiosyncratic approach."
+    ]
+  },
+  {
+    "word": "mellifluous",
+    "definition": "Sweet or musical; pleasant to hear.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/məˈlɪf.lu.əs/",
+    "examples": [
+      "Her mellifluous voice soothed the baby.",
+      "The singer’s mellifluous tone was captivating.",
+      "He spoke in a mellifluous manner.",
+      "Mellifluous melodies filled the air.",
+      "The podcast host has a mellifluous accent."
+    ]
+  },
+  {
+    "word": "ambivalent",
+    "definition": "Having mixed feelings or contradictory ideas.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/æmˈbɪv.ə.lənt/",
+    "examples": [
+      "She felt ambivalent about the job offer.",
+      "His ambivalent attitude confused everyone.",
+      "They were ambivalent towards the new policy.",
+      "I’m ambivalent when it comes to change.",
+      "Their ambivalence slowed decision-making."
+    ]
+  },
+  {
+    "word": "inscrutable",
+    "definition": "Impossible to understand or interpret.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ɪnˈskruː.tə.bəl/",
+    "examples": [
+      "His expression was inscrutable.",
+      "The code’s purpose was inscrutable at first.",
+      "She gave an inscrutable smile.",
+      "The ancient language was inscrutable.",
+      "He remained inscrutable under pressure."
+    ]
+  },
+  {
+    "word": "perspicacious",
+    "definition": "Having a ready insight into and understanding of things.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˌpɜː.spɪˈkeɪ.ʃəs/",
+    "examples": [
+      "Her perspicacious remarks impressed the board.",
+      "He was known for his perspicacious analysis of trends.",
+      "A perspicacious mind is essential in intelligence work.",
+      "Despite her age, she remained perspicacious and sharp.",
+      "The judge offered a perspicacious summary of the case."
+    ]
+  },
+  {
+    "word": "recalcitrant",
+    "definition": "Having an obstinately uncooperative attitude.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/rɪˈkæl.sɪ.trənt/",
+    "examples": [
+      "The recalcitrant student refused to comply.",
+      "They struggled to manage the recalcitrant employees.",
+      "His recalcitrant behavior disrupted the meeting.",
+      "She gave up reasoning with the recalcitrant witness.",
+      "Recalcitrant attitudes often hinder progress."
+    ]
+  },
+  {
+    "word": "profligate",
+    "definition": "Recklessly extravagant or wasteful in the use of resources.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈprɒf.lɪ.ɡət/",
+    "examples": [
+      "The government was criticized for profligate spending.",
+      "He led a profligate lifestyle funded by loans.",
+      "Their profligate habits drained the inheritance.",
+      "Profligate use of energy worsens climate issues.",
+      "She regretted her profligate choices during college."
+    ]
+  },
+  {
+    "word": "inchoate",
+    "definition": "Just begun and so not fully formed or developed.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ɪnˈkəʊ.eɪt/",
+    "examples": [
+      "The idea was still in an inchoate stage.",
+      "His inchoate theory lacked evidence.",
+      "The plan remains inchoate but promising.",
+      "Inchoate emotions swirled within him.",
+      "They discussed the inchoate designs for the app."
+    ]
+  },
+  {
+    "word": "pellucid",
+    "definition": "Transparently clear in style or meaning.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/pəˈluː.sɪd/",
+    "examples": [
+      "Her explanation was wonderfully pellucid.",
+      "The stream was as pellucid as glass.",
+      "Pellucid prose makes the book easy to follow.",
+      "The scientist gave a pellucid presentation.",
+      "They admired the speaker’s pellucid communication."
+    ]
+  },
+  {
+    "word": "obfuscate",
+    "definition": "To render obscure, unclear, or unintelligible.",
+    "part_of_speech": "verb",
+    "pronunciation": "/ˈɒb.fʌ.skeɪt/",
+    "examples": [
+      "The lawyer tried to obfuscate the facts.",
+      "Technical jargon often obfuscates simple ideas.",
+      "He obfuscated the real issue with irrelevant details.",
+      "Their answers only served to obfuscate the investigation.",
+      "Don't obfuscate—just tell me the truth."
+    ]
+  },
+  {
+    "word": "redolent",
+    "definition": "Strongly reminiscent or suggestive of something; fragrant.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈrɛd.əl.ənt/",
+    "examples": [
+      "The room was redolent of old books.",
+      "Her perfume was redolent of jasmine and rose.",
+      "The film was redolent of 1950s noir.",
+      "He walked through a market redolent with spices.",
+      "The air was redolent of memories from childhood."
+    ]
+  },
+  {
+    "word": "abstruse",
+    "definition": "Difficult to understand; obscure.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/æbˈstruːs/",
+    "examples": [
+      "The professor’s lectures were notoriously abstruse.",
+      "Quantum physics is filled with abstruse concepts.",
+      "They debated abstruse philosophical ideas.",
+      "His writing style was too abstruse for general readers.",
+      "Abstruse language can alienate an audience."
+    ]
+  },
+  {
+    "word": "recondite",
+    "definition": "Little known; abstruse.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈrek.ən.daɪt/",
+    "examples": [
+      "She gave a lecture on recondite mathematical theories.",
+      "The book explores recondite areas of theology.",
+      "His recondite references confused the audience.",
+      "They researched recondite manuscripts from the 14th century.",
+      "Recondite topics don’t appeal to general audiences."
+    ]
+  },
+  {
+    "word": "sagacious",
+    "definition": "Having or showing keen mental discernment and good judgment.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/səˈɡeɪ.ʃəs/",
+    "examples": [
+      "Her sagacious advice helped the company thrive.",
+      "He was considered a sagacious leader.",
+      "Sagacious individuals often see what others miss.",
+      "The judge made a sagacious ruling.",
+      "She approached the conflict with sagacious calm."
+    ]
+  },
+  {
+    "word": "turpitude",
+    "definition": "Depravity; wickedness.",
+    "part_of_speech": "noun",
+    "pronunciation": "/ˈtɜː.pɪ.tjuːd/",
+    "examples": [
+      "The novel explores moral turpitude in politics.",
+      "He was dismissed for acts of moral turpitude.",
+      "They were shocked by the turpitude of the scandal.",
+      "Turpitude in leadership erodes public trust.",
+      "She condemned the company’s turpitude."
+    ]
+  },
+  {
+    "word": "ennui",
+    "definition": "A feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement.",
+    "part_of_speech": "noun",
+    "pronunciation": "/ɒnˈwiː/",
+    "examples": [
+      "The long summer brought a sense of ennui.",
+      "He wrote poems to combat his ennui.",
+      "Ennui settled in after months of monotony.",
+      "They sought adventure to escape ennui.",
+      "Art can be a cure for existential ennui."
+    ]
+  },
+  {
+    "word": "lachrymose",
+    "definition": "Tearful or given to weeping.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈlæk.rɪ.məʊs/",
+    "examples": [
+      "The film left the audience lachrymose.",
+      "She grew lachrymose at the mention of her late husband.",
+      "It was a lachrymose farewell.",
+      "Lachrymose scenes filled the second act of the play.",
+      "He’s not usually lachrymose, but today was different."
+    ]
+  },
+  {
+    "word": "jejune",
+    "definition": "Naive, simplistic, and superficial.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ʒɪˈʒuːn/",
+    "examples": [
+      "Critics found the book jejune and predictable.",
+      "Her views on the subject were jejune.",
+      "The debate was filled with jejune arguments.",
+      "His jejune writing failed to impress the editors.",
+      "Jejune solutions rarely fix complex problems."
+    ]
+  },
+  {
+    "word": "tenebrous",
+    "definition": "Dark; shadowy or obscure.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈten.ə.brəs/",
+    "examples": [
+      "The castle had a tenebrous atmosphere.",
+      "He navigated the tenebrous alley cautiously.",
+      "Tenebrous clouds loomed overhead.",
+      "The movie opened with a tenebrous sequence.",
+      "A tenebrous mood gripped the town after the news."
+    ]
+  },
+  {
+    "word": "puerile",
+    "definition": "Childishly silly and trivial.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈpjʊə.raɪl/",
+    "examples": [
+      "His puerile behavior annoyed the team.",
+      "They dismissed the proposal as puerile nonsense.",
+      "She tired of his puerile jokes.",
+      "Puerile pranks have no place in the workplace.",
+      "The comment was as puerile as it was offensive."
+    ]
+  },
+  {
+    "word": "insouciant",
+    "definition": "Showing a casual lack of concern.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ɪnˈsuː.si.ənt/",
+    "examples": [
+      "He gave an insouciant shrug.",
+      "Her insouciant attitude masked deep anxiety.",
+      "They entered with insouciant confidence.",
+      "The model walked with insouciant grace.",
+      "His insouciant tone irritated the officials."
+    ]
+  },
+  {
+    "word": "adroit",
+    "definition": "Clever or skillful in using the hands or mind.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/əˈdrɔɪt/",
+    "examples": [
+      "She’s adroit at solving technical problems.",
+      "The magician was adroit with his sleight of hand.",
+      "He offered an adroit defense in court.",
+      "Adroit negotiators can turn situations around.",
+      "They admired her adroit storytelling."
+    ]
+  },
+  {
+    "word": "alacrity",
+    "definition": "Brisk and cheerful readiness.",
+    "part_of_speech": "noun",
+    "pronunciation": "/əˈlæk.rə.ti/",
+    "examples": [
+      "He accepted the offer with alacrity.",
+      "The team responded with alacrity to the challenge.",
+      "She showed alacrity in completing the task.",
+      "Volunteers came forward with alacrity.",
+      "Their alacrity was impressive under pressure."
+    ]
+  },
+  {
+    "word": "impecunious",
+    "definition": "Having little or no money.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˌɪm.pɪˈkjuː.ni.əs/",
+    "examples": [
+      "The impecunious artist struggled to buy supplies.",
+      "He lived an impecunious life after the collapse.",
+      "Support was offered to impecunious families.",
+      "Her impecunious past shaped her drive.",
+      "They gave generously to impecunious students."
+    ]
+  },
+  {
+    "word": "vociferous",
+    "definition": "Loud and forceful in expressing opinions.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/vəʊˈsɪf.ər.əs/",
+    "examples": [
+      "The vociferous crowd chanted slogans.",
+      "He was a vociferous opponent of the plan.",
+      "Their vociferous protest made headlines.",
+      "She made her vociferous stance clear.",
+      "The debate turned vociferous quickly."
+    ]
+  },
+  {
+    "word": "mellifluous",
+    "definition": "Sweet or musical; pleasant to hear.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/məˈlɪf.lu.əs/",
+    "examples": [
+      "The singer’s mellifluous voice filled the hall.",
+      "He spoke in a mellifluous tone.",
+      "The stream flowed with a mellifluous sound.",
+      "She enjoyed the mellifluous melodies.",
+      "His mellifluous accent charmed everyone."
+    ]
+  },
+  {
+    "word": "ephemeral",
+    "definition": "Lasting for a very short time.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ɪˈfem.ər.əl/",
+    "examples": [
+      "The beauty of a sunset is ephemeral.",
+      "Trends can be ephemeral and fleeting.",
+      "They shared an ephemeral moment of peace.",
+      "Ephemeral joy lit up her face.",
+      "He sought something more than ephemeral fame."
+    ]
+  },
+  {
+    "word": "antithetical",
+    "definition": "Directly opposed or contrasted.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˌæn.tɪˈθet.ɪ.kəl/",
+    "examples": [
+      "His beliefs are antithetical to mine.",
+      "They adopted antithetical strategies.",
+      "Capitalism is antithetical to communal ownership.",
+      "The two ideas are antithetical in principle.",
+      "Their lifestyles were antithetical."
+    ]
+  },
+  {
+    "word": "pell-mell",
+    "definition": "In a confused, rushed, or disorderly manner.",
+    "part_of_speech": "adverb",
+    "pronunciation": "/ˌpelˈmel/",
+    "examples": [
+      "Children ran pell-mell across the yard.",
+      "Papers flew pell-mell in the wind.",
+      "The crowd rushed in pell-mell.",
+      "He packed pell-mell before the flight.",
+      "She bolted out the door pell-mell."
+    ]
+  },
+  {
+    "word": "unctuous",
+    "definition": "Excessively flattering; oily or insincere.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈʌŋk.tjʊ.əs/",
+    "examples": [
+      "His unctuous tone made her uneasy.",
+      "He gave an unctuous speech of praise.",
+      "The waiter was overly unctuous.",
+      "Her unctuous flattery was obvious.",
+      "It sounded sincere but was unctuous."
+    ]
+  },
+  {
+    "word": "truculent",
+    "definition": "Aggressively defiant or quick to fight.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈtrʌk.jʊ.lənt/",
+    "examples": [
+      "He responded in a truculent tone.",
+      "Her truculent attitude scared the team.",
+      "The player was known for truculent outbursts.",
+      "Truculent crowds protested the policy.",
+      "They grew truculent under pressure."
+    ]
+  },
+  {
+    "word": "obdurate",
+    "definition": "Stubbornly refusing to change one's mind.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈɒb.dʒə.rət/",
+    "examples": [
+      "He remained obdurate despite the pleas.",
+      "An obdurate refusal to compromise cost him.",
+      "She was obdurate in her decision.",
+      "They met with obdurate resistance.",
+      "Obdurate hearts are hard to reach."
+    ]
+  },
+  {
+    "word": "pulchritudinous",
+    "definition": "Physically beautiful.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˌpʌl.krɪˈtjuː.dɪ.nəs/",
+    "examples": [
+      "The actress is pulchritudinous.",
+      "She wore a pulchritudinous smile.",
+      "They admired the pulchritudinous model.",
+      "His pulchritudinous charm was unmatched.",
+      "The painting showed pulchritudinous detail."
+    ]
+  },
+  {
+    "word": "torpid",
+    "definition": "Mentally or physically inactive; sluggish.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈtɔː.pɪd/",
+    "examples": [
+      "He lay torpid in bed.",
+      "The heat left them torpid.",
+      "Her mind felt torpid from boredom.",
+      "Torpid movements revealed exhaustion.",
+      "The torpid bear stirred slowly."
+    ]
+  },
+  {
+    "word": "prosaic",
+    "definition": "Lacking poetic beauty; unromantic.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/prəʊˈzeɪ.ɪk/",
+    "examples": [
+      "The speech was prosaic and dull.",
+      "Her writing became prosaic over time.",
+      "They lived a prosaic life.",
+      "A prosaic explanation followed.",
+      "The painting had a prosaic tone."
+    ]
+  },
+  {
+    "word": "magnanimous",
+    "definition": "Very generous or forgiving.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/mæɡˈnæn.ɪ.məs/",
+    "examples": [
+      "She was magnanimous in victory.",
+      "His magnanimous gesture ended the feud.",
+      "They were magnanimous toward the losers.",
+      "A magnanimous leader inspires loyalty.",
+      "He offered a magnanimous apology."
+    ]
+  },
+  {
+    "word": "loquacious",
+    "definition": "Very talkative.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ləˈkweɪ.ʃəs/",
+    "examples": [
+      "The loquacious man talked nonstop.",
+      "She’s known for being loquacious at parties.",
+      "His loquacious nature annoyed some.",
+      "Loquacious children filled the hall.",
+      "The loquacious host kept the show lively."
+    ]
+  },
+  {
+    "word": "diffident",
+    "definition": "Modest or shy due to lack of confidence.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈdɪf.ɪ.dənt/",
+    "examples": [
+      "She was diffident about expressing opinions.",
+      "He gave a diffident answer.",
+      "Her diffident demeanor faded over time.",
+      "He seemed diffident in new settings.",
+      "A diffident smile crept onto his face."
+    ]
+  },
+  {
+    "word": "esoteric",
+    "definition": "Intended for or likely to be understood by only a small number of people with specialized knowledge.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˌes.əʊˈter.ɪk/",
+    "examples": [
+      "The lecture was filled with esoteric terms.",
+      "Only an esoteric group could grasp the code.",
+      "His references were too esoteric for the audience.",
+      "They shared an esoteric understanding of the subject.",
+      "The book is known for its esoteric content."
+    ]
+  },
+  {
+    "word": "nonplussed",
+    "definition": "Surprised and confused so much that one is unsure how to react.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˌnɒnˈplʌst/",
+    "examples": [
+      "He was nonplussed by the sudden question.",
+      "She looked nonplussed at the chaos.",
+      "The decision left them nonplussed.",
+      "I felt nonplussed by her reaction.",
+      "His face was nonplussed and unreadable."
+    ]
+  },
+  {
+    "word": "recalcitrant",
+    "definition": "Having an obstinately uncooperative attitude toward authority.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/rɪˈkæl.sɪ.trənt/",
+    "examples": [
+      "The recalcitrant student refused to follow rules.",
+      "She grew recalcitrant with each demand.",
+      "They punished the recalcitrant workers.",
+      "His recalcitrant nature caused issues.",
+      "The recalcitrant crowd defied orders."
+    ]
+  },
+  {
+    "word": "quixotic",
+    "definition": "Exceedingly idealistic; unrealistic and impractical.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/kwɪkˈsɒt.ɪk/",
+    "examples": [
+      "His quixotic mission ended in failure.",
+      "She made a quixotic attempt to save the world.",
+      "They admired his quixotic dreams.",
+      "A quixotic solution was proposed.",
+      "The plan was noble but quixotic."
+    ]
+  },
+  {
+    "word": "equanimity",
+    "definition": "Mental calmness, composure, and evenness of temper, especially in a difficult situation.",
+    "part_of_speech": "noun",
+    "pronunciation": "/ˌekwəˈnɪmɪti/",
+    "examples": [
+      "She accepted the news with equanimity.",
+      "He faced the chaos with equanimity.",
+      "Her equanimity impressed everyone.",
+      "Even under stress, he maintained equanimity.",
+      "Equanimity is a sign of maturity."
+    ]
+  },
+  {
+    "word": "taciturn",
+    "definition": "Reserved or uncommunicative in speech.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈtæs.ɪ.tɜːn/",
+    "examples": [
+      "The taciturn man rarely spoke.",
+      "She remained taciturn throughout dinner.",
+      "His taciturn behavior puzzled them.",
+      "A taciturn reply was all he gave.",
+      "The child was shy and taciturn."
+    ]
+  },
+  {
+    "word": "apocryphal",
+    "definition": "Of doubtful authenticity, although widely circulated as being true.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/əˈpɒk.rɪ.fəl/",
+    "examples": [
+      "The story is likely apocryphal.",
+      "They shared apocryphal tales of the past.",
+      "He quoted an apocryphal source.",
+      "Apocryphal rumors spread quickly online.",
+      "It sounded real but was apocryphal."
+    ]
+  },
+  {
+    "word": "perfunctory",
+    "definition": "Carried out with minimum effort or reflection.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/pəˈfʌŋk.tər.i/",
+    "examples": [
+      "He gave a perfunctory nod.",
+      "Her apology was perfunctory.",
+      "They offered a perfunctory welcome.",
+      "The cleaning was perfunctory at best.",
+      "He made a perfunctory effort."
+    ]
+  },
+  {
+    "word": "redolent",
+    "definition": "Strongly reminiscent or suggestive of something; fragrant or sweet-smelling.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈred.əl.ənt/",
+    "examples": [
+      "The house was redolent of fresh bread.",
+      "A room redolent with nostalgia.",
+      "The scent was redolent of childhood.",
+      "His clothes were redolent of smoke.",
+      "The air was redolent with spices."
+    ]
+  },
+  {
+    "word": "inveterate",
+    "definition": "Having a particular habit, activity, or interest that is long-established and unlikely to change.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ɪnˈvet.ər.ət/",
+    "examples": [
+      "He’s an inveterate gambler.",
+      "She was an inveterate reader.",
+      "An inveterate habit is hard to break.",
+      "He acted like an inveterate liar.",
+      "They were inveterate travelers."
+    ]
+  },
+  {
+    "word": "bombastic",
+    "definition": "High-sounding but with little meaning; inflated.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/bɒmˈbæs.tɪk/",
+    "examples": [
+      "The speech was bombastic and lacked substance.",
+      "He always uses bombastic language to impress.",
+      "Critics called the novel bombastic and hollow.",
+      "She gave a bombastic introduction full of clichés.",
+      "His bombastic tone annoyed the audience."
+    ]
+  },
+  {
+    "word": "credulous",
+    "definition": "Having or showing too great a readiness to believe things.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈkrɛd.jʊ.ləs/",
+    "examples": [
+      "The credulous child believed every word.",
+      "Scammers target credulous victims.",
+      "She was too credulous for her own good.",
+      "They were credulous enough to fall for the trick.",
+      "His credulous nature got him in trouble."
+    ]
+  },
+  {
+    "word": "despot",
+    "definition": "A ruler with absolute power and authority, often one who exercises it cruelly.",
+    "part_of_speech": "noun",
+    "pronunciation": "/ˈdes.pɒt/",
+    "examples": [
+      "The country was ruled by a ruthless despot.",
+      "He acted like a despot in the office.",
+      "They overthrew the despot after years of oppression.",
+      "History remembers him as a despot, not a leader.",
+      "She feared becoming a despot in her decisions."
+    ]
+  },
+  {
+    "word": "enervate",
+    "definition": "To cause someone to feel drained of energy; weaken.",
+    "part_of_speech": "verb",
+    "pronunciation": "/ˈen.ə.veɪt/",
+    "examples": [
+      "The heat enervated everyone.",
+      "Long hours of work enervate the body.",
+      "His illness enervated him.",
+      "She felt enervated after the workout.",
+      "Lack of sleep can enervate your performance."
+    ]
+  },
+  {
+    "word": "fastidious",
+    "definition": "Very attentive to detail; hard to please.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/fæˈstɪd.i.əs/",
+    "examples": [
+      "She is fastidious about her appearance.",
+      "A fastidious editor catches every mistake.",
+      "He’s fastidious in keeping things clean.",
+      "They found her fastidious habits frustrating.",
+      "The chef was fastidious about ingredients."
+    ]
+  },
+  {
+    "word": "garrulous",
+    "definition": "Excessively talkative, especially on trivial matters.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈɡær.ə.ləs/",
+    "examples": [
+      "The garrulous man talked nonstop.",
+      "She grew garrulous after a few drinks.",
+      "He avoided his garrulous neighbor.",
+      "Their garrulous chatter filled the room.",
+      "The interviewee was charming but garrulous."
+    ]
+  },
+  {
+    "word": "hubris",
+    "definition": "Excessive pride or self-confidence.",
+    "part_of_speech": "noun",
+    "pronunciation": "/ˈhjuː.brɪs/",
+    "examples": [
+      "His hubris led to his downfall.",
+      "She was blinded by hubris.",
+      "The general's hubris cost them the battle.",
+      "Hubris can ruin great leaders.",
+      "His speech was full of hubris."
+    ]
+  },
+  {
+    "word": "immutable",
+    "definition": "Unchanging over time or unable to be changed.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ɪˈmjuː.tə.bəl/",
+    "examples": [
+      "The rules are immutable.",
+      "Her beliefs were immutable.",
+      "Science once saw the Earth as immutable.",
+      "Immutable laws govern nature.",
+      "He had an immutable sense of duty."
+    ]
+  },
+  {
+    "word": "mellifluous",
+    "definition": "Sweet or musical; pleasant to hear.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/məˈlɪf.lu.əs/",
+    "examples": [
+      "She had a mellifluous voice.",
+      "The music was smooth and mellifluous.",
+      "His mellifluous tone calmed the room.",
+      "They played a mellifluous melody.",
+      "The speaker’s voice was mellifluous and soothing."
+    ]
+  },
+  {
+    "word": "nefarious",
+    "definition": "Wicked, criminal, or evil.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/nɪˈfeə.ri.əs/",
+    "examples": [
+      "They plotted a nefarious scheme.",
+      "His nefarious deeds were exposed.",
+      "The villain was truly nefarious.",
+      "She discovered his nefarious secret.",
+      "Nefarious activities were rampant in the area."
+    ]
+  },
+  {
+    "word": "obfuscate",
+    "definition": "To make something unclear or unintelligible.",
+    "part_of_speech": "verb",
+    "pronunciation": "/ˈɒb.fʌ.skeɪt/",
+    "examples": [
+      "The report only obfuscated the facts.",
+      "He tried to obfuscate the issue.",
+      "They used jargon to obfuscate.",
+      "His speech obfuscated the real problem.",
+      "Obfuscating data can hinder transparency."
+    ]
+  },
+  {
+    "word": "panacea",
+    "definition": "A solution or remedy for all problems or diseases.",
+    "part_of_speech": "noun",
+    "pronunciation": "/ˌpæn.əˈsiː.ə/",
+    "examples": [
+      "Education is not a panacea for poverty.",
+      "They seek a panacea for the crisis.",
+      "There is no panacea for life's troubles.",
+      "Technology isn't a panacea.",
+      "He treated the policy as a panacea."
+    ]
+  },
+  {
+    "word": "quagmire",
+    "definition": "A difficult, complicated, or dangerous situation.",
+    "part_of_speech": "noun",
+    "pronunciation": "/ˈkwæɡ.maɪər/",
+    "examples": [
+      "The war turned into a quagmire.",
+      "They were stuck in a legal quagmire.",
+      "His dishonesty led to a moral quagmire.",
+      "The economy is in a quagmire.",
+      "She found herself in a bureaucratic quagmire."
+    ]
+  },
+  {
+    "word": "rescind",
+    "definition": "To revoke, cancel, or repeal (a law, order, or agreement).",
+    "part_of_speech": "verb",
+    "pronunciation": "/rɪˈsɪnd/",
+    "examples": [
+      "They rescinded the invitation.",
+      "The contract was rescinded after fraud.",
+      "He rescinded the offer.",
+      "The policy was rescinded immediately.",
+      "She asked the board to rescind the decision."
+    ]
+  },
+  {
+    "word": "sanguine",
+    "definition": "Optimistic or positive, especially in a difficult situation.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈsæŋ.ɡwɪn/",
+    "examples": [
+      "She remained sanguine despite the losses.",
+      "The manager was sanguine about the future.",
+      "They took a sanguine view of the crisis.",
+      "He’s surprisingly sanguine given the odds.",
+      "Investors were sanguine after the meeting."
+    ]
+  },
+  {
+    "word": "tenuous",
+    "definition": "Very weak or slight.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈten.ju.əs/",
+    "examples": [
+      "The evidence was tenuous.",
+      "They have a tenuous relationship.",
+      "His claim was tenuous at best.",
+      "She held on with a tenuous grip.",
+      "The connection was tenuous and fading."
+    ]
+  },
+  {
+    "word": "ubiquitous",
+    "definition": "Present, appearing, or found everywhere.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/juːˈbɪk.wɪ.təs/",
+    "examples": [
+      "Smartphones are ubiquitous now.",
+      "He had a ubiquitous smile.",
+      "Their logo was ubiquitous in the city.",
+      "The internet is ubiquitous in daily life.",
+      "CCTV cameras are ubiquitous in urban areas."
+    ]
+  },
+  {
+    "word": "vicarious",
+    "definition": "Experienced through the feelings or actions of another person.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/vɪˈkeə.ri.əs/",
+    "examples": [
+      "She lived vicariously through her children.",
+      "The novel gave him vicarious thrills.",
+      "He got a vicarious sense of pride.",
+      "They enjoyed a vicarious experience through the documentary.",
+      "His vicarious excitement was contagious."
+    ]
+  },
+  {
+    "word": "zealous",
+    "definition": "Having or showing enthusiasm and passion.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈzel.əs/",
+    "examples": [
+      "The intern was zealous about the project.",
+      "She was a zealous supporter.",
+      "They launched a zealous campaign.",
+      "His zealous attitude annoyed others.",
+      "Zealous fans surrounded the stage."
+    ]
+  },
+  {
+    "word": "wanton",
+    "definition": "Deliberate and unprovoked; sexually immodest or promiscuous.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈwɒn.tən/",
+    "examples": [
+      "The vandalism was wanton and destructive.",
+      "They were accused of wanton cruelty.",
+      "Her wanton behavior shocked the town.",
+      "It was a wanton disregard for life.",
+      "His wanton attitude caused concern."
+    ]
+  },
+  {
+    "word": "xenophile",
+    "definition": "A person who is attracted to foreign peoples, cultures, or customs.",
+    "part_of_speech": "noun",
+    "pronunciation": "/ˈzen.ə.faɪl/",
+    "examples": [
+      "He was a proud xenophile.",
+      "Xenophiles embrace diversity.",
+      "The club was founded by xenophiles.",
+      "She’s a xenophile with a love for Asian culture.",
+      "His xenophile tendencies shaped his worldview."
+    ]
+  },
+  {
+    "word": "yoke",
+    "definition": "To join, link, or bond together; a burden or something that oppresses.",
+    "part_of_speech": "verb/noun",
+    "pronunciation": "/jəʊk/",
+    "examples": [
+      "They were yoked by obligation.",
+      "The law yoked the two groups unfairly.",
+      "Farmers used to yoke oxen together.",
+      "She wanted to break the yoke of tradition.",
+      "The country was under the yoke of tyranny."
+    ]
+  },
+  {
+    "word": "zenith",
+    "definition": "The highest point or peak.",
+    "part_of_speech": "noun",
+    "pronunciation": "/ˈze.nɪθ/",
+    "examples": [
+      "Her fame reached its zenith.",
+      "The sun was at its zenith.",
+      "They were at the zenith of their power.",
+      "His career hit the zenith in 2020.",
+      "The company reached its zenith quickly."
+    ]
+  },
+  {
+    "word": "beleaguered",
+    "definition": "Suffering or being subjected to repeated trouble or harassment.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/bɪˈliː.ɡəd/",
+    "examples": [
+      "The beleaguered city called for aid.",
+      "He was a beleaguered leader under scrutiny.",
+      "They defended the beleaguered position.",
+      "Her beleaguered expression said it all.",
+      "The company was beleaguered by scandals."
+    ]
+  },
+  {
+    "word": "dichotomy",
+    "definition": "A division or contrast between two things that are opposed.",
+    "part_of_speech": "noun",
+    "pronunciation": "/daɪˈkɒt.ə.mi/",
+    "examples": [
+      "There is a clear dichotomy between good and evil.",
+      "The book explores the dichotomy of freedom and control.",
+      "Science and religion often present a dichotomy.",
+      "The artist highlighted the urban-rural dichotomy.",
+      "This dichotomy shaped public discourse."
+    ]
+  },
+  {
+    "word": "equanimity",
+    "definition": "Mental calmness and composure, especially in a difficult situation.",
+    "part_of_speech": "noun",
+    "pronunciation": "/ˌek.wəˈnɪm.ə.ti/",
+    "examples": [
+      "She handled the pressure with equanimity.",
+      "He faced the crisis with equanimity.",
+      "Equanimity is key in negotiations.",
+      "Her equanimity was admirable.",
+      "Maintaining equanimity is difficult under stress."
+    ]
+  },
+  {
+    "word": "fetter",
+    "definition": "To restrain with chains or shackles; to limit or restrict.",
+    "part_of_speech": "verb/noun",
+    "pronunciation": "/ˈfet.ər/",
+    "examples": [
+      "The prisoner was fettered by chains.",
+      "Tradition can fetter innovation.",
+      "They were fettered by outdated rules.",
+      "He felt fettered in that job.",
+      "The law acted as a fetter on change."
+    ]
+  },
+  {
+    "word": "glib",
+    "definition": "Fluent and voluble but insincere and shallow.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ɡlɪb/",
+    "examples": [
+      "His glib answers were unconvincing.",
+      "She gave a glib apology.",
+      "A glib salesman can be dangerous.",
+      "He spoke in a glib manner.",
+      "The explanation sounded too glib."
+    ]
+  },
+  {
+    "word": "haughty",
+    "definition": "Arrogantly superior and disdainful.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈhɔː.ti/",
+    "examples": [
+      "She gave him a haughty look.",
+      "His haughty attitude alienated peers.",
+      "The haughty tone angered everyone.",
+      "They resented her haughty behavior.",
+      "The waiter’s haughty manner was offensive."
+    ]
+  },
+  {
+    "word": "insipid",
+    "definition": "Lacking flavor, vigor, or interest.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ɪnˈsɪp.ɪd/",
+    "examples": [
+      "The soup was insipid.",
+      "He gave an insipid performance.",
+      "Her writing style was insipid.",
+      "They found the film insipid.",
+      "The conversation was dull and insipid."
+    ]
+  },
+  {
+    "word": "juxtapose",
+    "definition": "To place close together for contrasting effect.",
+    "part_of_speech": "verb",
+    "pronunciation": "/ˌdʒʌk.stəˈpəʊz/",
+    "examples": [
+      "The artist juxtaposed light and dark.",
+      "The images were juxtaposed for comparison.",
+      "They juxtapose wealth with poverty.",
+      "Her sadness was juxtaposed with his joy.",
+      "Juxtaposing ideas can reveal new insights."
+    ]
+  },
+  {
+    "word": "knell",
+    "definition": "The sound of a bell, especially when rung solemnly; a signal of death or failure.",
+    "part_of_speech": "noun",
+    "pronunciation": "/nel/",
+    "examples": [
+      "The knell marked the end of an era.",
+      "A funeral knell echoed through the air.",
+      "His resignation was the final knell.",
+      "The recession sounded the knell of growth.",
+      "They heard the knell in silence."
+    ]
+  },
+  {
+    "word": "lurid",
+    "definition": "Very vivid in color; presented in vividly shocking or sensational terms.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈljʊə.rɪd/",
+    "examples": [
+      "The paper published lurid headlines.",
+      "She described the event in lurid detail.",
+      "The colors were too lurid for the room.",
+      "Lurid tales filled the tabloids.",
+      "The painting had lurid contrasts."
+    ]
+  },
+  {
+    "word": "morose",
+    "definition": "Sullen and ill-tempered.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/məˈrəʊs/",
+    "examples": [
+      "He was morose all day.",
+      "She looked morose after the meeting.",
+      "A morose mood settled over them.",
+      "He gave a morose nod.",
+      "They were silent and morose."
+    ]
+  },
+  {
+    "word": "neologism",
+    "definition": "A newly coined word or expression.",
+    "part_of_speech": "noun",
+    "pronunciation": "/niːˈɒl.ə.dʒɪ.zəm/",
+    "examples": [
+      "The internet is full of neologisms.",
+      "He used a neologism no one understood.",
+      "Language evolves through neologisms.",
+      "Tech neologisms enter everyday speech.",
+      "She invented several neologisms in her book."
+    ]
+  },
+  {
+    "word": "obsequious",
+    "definition": "Obedient or attentive to an excessive degree.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/əbˈsiː.kwi.əs/",
+    "examples": [
+      "His obsequious behavior was annoying.",
+      "The waiter was overly obsequious.",
+      "She disliked obsequious compliments.",
+      "They acted obsequiously toward the boss.",
+      "He surrounded himself with obsequious staff."
+    ]
+  },
+  {
+    "word": "pernicious",
+    "definition": "Having a harmful effect, especially in a gradual or subtle way.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/pəˈnɪʃ.əs/",
+    "examples": [
+      "The lie had a pernicious effect.",
+      "Pernicious rumors spread fast.",
+      "The habit proved pernicious over time.",
+      "It was a pernicious influence on youth.",
+      "He underestimated the pernicious threat."
+    ]
+  },
+  {
+    "word": "quixotic",
+    "definition": "Exceedingly idealistic; unrealistic and impractical.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/kwɪkˈsɒt.ɪk/",
+    "examples": [
+      "His quixotic plan failed.",
+      "She made a quixotic attempt to fix it.",
+      "The idea was noble but quixotic.",
+      "They pursued a quixotic dream.",
+      "He had a quixotic view of politics."
+    ]
+  },
+  {
+    "word": "reticent",
+    "definition": "Not revealing one's thoughts or feelings readily.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈret.ɪ.sənt/",
+    "examples": [
+      "She remained reticent.",
+      "He was reticent about his past.",
+      "Reticent people are often misunderstood.",
+      "He gave a reticent nod.",
+      "The witness was surprisingly reticent."
+    ]
+  },
+  {
+    "word": "soporific",
+    "definition": "Tending to induce drowsiness or sleep.",
+    "part_of_speech": "adjective/noun",
+    "pronunciation": "/ˌsɒp.ərˈɪf.ɪk/",
+    "examples": [
+      "The lecture was soporific.",
+      "Warm milk has a soporific effect.",
+      "The movie was unintentionally soporific.",
+      "He took a soporific before bed.",
+      "The book’s style was soporific."
+    ]
+  },
+  {
+    "word": "taciturn",
+    "definition": "Reserved or uncommunicative in speech.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈtæs.ɪ.tɜːn/",
+    "examples": [
+      "He was a taciturn man.",
+      "She remained taciturn during the meeting.",
+      "Taciturn people can be hard to read.",
+      "His taciturn demeanor was intimidating.",
+      "They mistook her silence for taciturn nature."
+    ]
+  },
+  {
+    "word": "unctuous",
+    "definition": "Excessively flattering or ingratiating; oily.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈʌŋk.tju.əs/",
+    "examples": [
+      "His unctuous smile was suspicious.",
+      "She disliked his unctuous tone.",
+      "The waiter had an unctuous charm.",
+      "Unctuous praise feels fake.",
+      "He gave an unctuous response."
+    ]
+  },
+  {
+    "word": "venerable",
+    "definition": "Accorded a great deal of respect, especially due to age or wisdom.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈven.ər.ə.bəl/",
+    "examples": [
+      "He was a venerable professor.",
+      "The venerable tradition continued.",
+      "They visited the venerable temple.",
+      "She spoke with venerable authority.",
+      "The book came from a venerable publisher."
+    ]
+  },
+  {
+    "word": "winsome",
+    "definition": "Attractive or appealing in a charming way.",
+    "part_of_speech": "adjective",
+    "pronunciation": "/ˈwɪn.səm/",
+    "examples": [
+      "She gave a winsome smile.",
+      "The child had a winsome face.",
+      "His winsome attitude won them over.",
+      "The winsome puppy was irresistible.",
+      "Her winsome charm made her popular."
+    ]
+  },
+  {
+    "word": "yonder",
+    "definition": "At some distance in the direction indicated; over there.",
+    "part_of_speech": "adverb",
+    "pronunciation": "/ˈjɒn.dər/",
+    "examples": [
+      "Look at the house yonder.",
+      "She pointed to the hills yonder.",
+      "They saw a figure yonder.",
+      "The camp lies yonder.",
+      "Let’s meet at the tree yonder."
+    ]
+  },
+  {
+    "word": "zealot",
+    "definition": "A person who is fanatical in pursuit of their ideals.",
+    "part_of_speech": "noun",
+    "pronunciation": "/ˈzel.ət/",
+    "examples": [
+      "He was a political zealot.",
+      "The zealot refused to compromise.",
+      "Religious zealots led the revolt.",
+      "They viewed him as a zealot.",
+      "She acted like a zealot for the cause."
+    ]
+  },
+  {
+    "word": "abstemious",
+    "pronunciation": "/æbˈstiː.mi.əs/",
+    "partOfSpeech": "adjective",
+    "definition": "Not allowing yourself much in the way of food or drink; self-disciplined.",
+    "examples": [
+      "He lived an abstemious lifestyle for spiritual reasons.",
+      "Monks are known for being abstemious in both food and pleasure.",
+      "Her abstemious habits helped her stay healthy.",
+      "The athlete maintained an abstemious diet before the competition.",
+      "Being abstemious saved him a lot of money on takeouts."
+    ]
+  },
+  {
+    "word": "beleaguer",
+    "pronunciation": "/bɪˈliː.ɡər/",
+    "partOfSpeech": "verb",
+    "definition": "To harass or besiege with difficulties.",
+    "examples": [
+      "The company was beleaguered by lawsuits.",
+      "She felt beleaguered by constant criticism.",
+      "The beleaguered town asked for aid.",
+      "Management was beleaguered by employee demands.",
+      "The team was beleaguered with injuries before the final."
+    ]
+  },
+  {
+    "word": "cacophony",
+    "pronunciation": "/kəˈkɒf.ə.ni/",
+    "partOfSpeech": "noun",
+    "definition": "A harsh, discordant mixture of sounds.",
+    "examples": [
+      "The cacophony of horns filled the street.",
+      "We were startled by the cacophony in the classroom.",
+      "A cacophony of alarms went off during the drill.",
+      "The band's practice created a cacophony.",
+      "She woke to the cacophony of barking dogs."
+    ]
+  },
+  {
+    "word": "delineate",
+    "pronunciation": "/dɪˈlɪn.i.eɪt/",
+    "partOfSpeech": "verb",
+    "definition": "To clearly describe or portray something.",
+    "examples": [
+      "He delineated the plan in great detail.",
+      "The map delineates the boundaries precisely.",
+      "She delineated her vision for the future.",
+      "The author delineates the protagonist’s struggles vividly.",
+      "They delineated the rules before starting the game."
+    ]
+  },
+  {
+    "word": "effrontery",
+    "pronunciation": "/ɪˈfrʌn.tər.i/",
+    "partOfSpeech": "noun",
+    "definition": "Boldness or audacity, often seen as rude.",
+    "examples": [
+      "She had the effrontery to interrupt him mid-speech.",
+      "His effrontery shocked even the most jaded critics.",
+      "They couldn’t believe his effrontery at the meeting.",
+      "He showed effrontery by mocking the judge.",
+      "The effrontery of that request amazed her."
+    ]
+  },
+  {
+    "word": "furtive",
+    "pronunciation": "/ˈfɜː.tɪv/",
+    "partOfSpeech": "adjective",
+    "definition": "Done secretly, as if to avoid notice or guilt.",
+    "examples": [
+      "She cast a furtive glance at the door.",
+      "They exchanged furtive whispers during class.",
+      "His furtive behavior raised suspicion.",
+      "He made a furtive escape from the party.",
+      "The thief took a furtive step toward the exit."
+    ]
+  },
+  {
+    "word": "garrulous",
+    "pronunciation": "/ˈɡær.ə.ləs/",
+    "partOfSpeech": "adjective",
+    "definition": "Excessively talkative, especially on trivial matters.",
+    "examples": [
+      "Her garrulous neighbor kept her up all night.",
+      "He was charming but a bit garrulous.",
+      "The lecture turned garrulous and lost focus.",
+      "A garrulous old man told stories for hours.",
+      "I avoided the garrulous coworker in the break room."
+    ]
+  },
+  {
+    "word": "hapless",
+    "pronunciation": "/ˈhæp.ləs/",
+    "partOfSpeech": "adjective",
+    "definition": "Unlucky or unfortunate.",
+    "examples": [
+      "The hapless passengers were stranded overnight.",
+      "He was a hapless victim of circumstance.",
+      "Their hapless efforts ended in failure.",
+      "She pitied the hapless stray dog.",
+      "A hapless intern spilled coffee on the CEO."
+    ]
+  },
+  {
+    "word": "impecunious",
+    "pronunciation": "/ˌɪm.pɪˈkjuː.ni.əs/",
+    "partOfSpeech": "adjective",
+    "definition": "Having little or no money.",
+    "examples": [
+      "He remained impecunious despite his talents.",
+      "The impecunious artist lived in a tiny studio.",
+      "She was raised in an impecunious household.",
+      "Many students are notoriously impecunious.",
+      "He joked about his impecunious lifestyle."
+    ]
+  },
+  {
+    "word": "juxtapose",
+    "pronunciation": "/ˌdʒʌk.stəˈpəʊz/",
+    "partOfSpeech": "verb",
+    "definition": "To place things side by side for contrast.",
+    "examples": [
+      "The artist juxtaposed light and dark colors.",
+      "We juxtaposed urban and rural lifestyles.",
+      "The documentary juxtaposes wealth and poverty.",
+      "She juxtaposed kindness with cruelty in the story.",
+      "Juxtaposing old photos with new ones shows change."
+    ]
+  },
+  {
+    "word": "kaleidoscopic",
+    "pronunciation": "/kəˌlaɪ.dəˈskɒp.ɪk/",
+    "partOfSpeech": "adjective",
+    "definition": "Constantly changing in a colorful and complex pattern.",
+    "examples": [
+      "Her memories were a kaleidoscopic swirl of emotion.",
+      "The city lights created a kaleidoscopic scene.",
+      "They embarked on a kaleidoscopic journey through cultures.",
+      "The show featured kaleidoscopic visuals and vibrant colors.",
+      "His thoughts were kaleidoscopic, jumping from one idea to another."
+    ]
+  },
+  {
+    "word": "laconic",
+    "pronunciation": "/ləˈkɒn.ɪk/",
+    "partOfSpeech": "adjective",
+    "definition": "Using few words; concise to the point of seeming rude.",
+    "examples": [
+      "His laconic reply hinted at irritation.",
+      "She was known for her laconic speech.",
+      "He gave a laconic 'yes' and walked away.",
+      "The boss was laconic but effective.",
+      "Her laconic manner masked deep thought."
+    ]
+  },
+  {
+    "word": "mellifluous",
+    "pronunciation": "/məˈlɪf.lu.əs/",
+    "partOfSpeech": "adjective",
+    "definition": "Sweet or musical; pleasant to hear.",
+    "examples": [
+      "She spoke in a mellifluous voice.",
+      "The singer’s mellifluous tones enchanted the crowd.",
+      "He loved the mellifluous sound of the violin.",
+      "A mellifluous melody played in the background.",
+      "The poem was read in a mellifluous manner."
+    ]
+  },
+  {
+    "word": "nonplussed",
+    "pronunciation": "/ˌnɒnˈplʌst/",
+    "partOfSpeech": "adjective",
+    "definition": "So surprised or confused that one does not know how to react.",
+    "examples": [
+      "She looked nonplussed when he confessed.",
+      "The question left him completely nonplussed.",
+      "They were nonplussed by the unexpected turn of events.",
+      "I was nonplussed by her reaction.",
+      "He was nonplussed at the strange request."
+    ]
+  },
+  {
+    "word": "obstreperous",
+    "pronunciation": "/əbˈstrep.ər.əs/",
+    "partOfSpeech": "adjective",
+    "definition": "Noisy and difficult to control.",
+    "examples": [
+      "The obstreperous child was sent to time-out.",
+      "The crowd grew obstreperous after the delay.",
+      "He found the dog’s behavior obstreperous.",
+      "An obstreperous guest ruined the dinner.",
+      "Teachers struggled with the obstreperous class."
+    ]
+  },
+  {
+    "word": "panacea",
+    "pronunciation": "/ˌpæn.əˈsiː.ə/",
+    "partOfSpeech": "noun",
+    "definition": "A solution or remedy for all problems or difficulties.",
+    "examples": [
+      "There is no panacea for economic inequality.",
+      "The policy was presented as a panacea.",
+      "He searched for a panacea to fix his startup.",
+      "Education is often seen as a panacea.",
+      "They hoped the new software would be a panacea."
+    ]
+  },
+  {
+    "word": "quixotic",
+    "pronunciation": "/kwɪkˈsɒt.ɪk/",
+    "partOfSpeech": "adjective",
+    "definition": "Unrealistically idealistic; impractical.",
+    "examples": [
+      "His quixotic plans failed quickly.",
+      "She had a quixotic dream of world peace.",
+      "They dismissed his proposal as quixotic.",
+      "His quixotic nature made him lovable but unreliable.",
+      "Starting the project with no funding was quixotic."
+    ]
+  },
+  {
+    "word": "recalcitrant",
+    "pronunciation": "/rɪˈkæl.sɪ.trənt/",
+    "partOfSpeech": "adjective",
+    "definition": "Stubbornly resistant to authority or control.",
+    "examples": [
+      "The recalcitrant student refused to comply.",
+      "He faced recalcitrant members in the team.",
+      "Their recalcitrant behavior delayed the project.",
+      "A recalcitrant attitude won’t help you grow.",
+      "The recalcitrant dog wouldn’t obey commands."
+    ]
+  },
+  {
+    "word": "sagacious",
+    "pronunciation": "/səˈɡeɪ.ʃəs/",
+    "partOfSpeech": "adjective",
+    "definition": "Wise or shrewd; showing good judgment.",
+    "examples": [
+      "Her sagacious advice saved the company.",
+      "He made a sagacious decision under pressure.",
+      "The sagacious leader earned everyone’s respect.",
+      "Their sagacious planning paid off.",
+      "She is admired for being sagacious and kind."
+    ]
+  },
+  {
+    "word": "tantamount",
+    "pronunciation": "/ˈtæn.tə.maʊnt/",
+    "partOfSpeech": "adjective",
+    "definition": "Equivalent in seriousness to; virtually the same as.",
+    "examples": [
+      "His silence was tantamount to an admission.",
+      "Ignoring the problem is tantamount to giving up.",
+      "That remark was tantamount to betrayal.",
+      "Leaving now is tantamount to surrender.",
+      "The action was tantamount to a declaration of war."
+    ]
+  },
+  {
+    "word": "ubiquitous",
+    "pronunciation": "/juːˈbɪk.wɪ.təs/",
+    "partOfSpeech": "adjective",
+    "definition": "Present or existing everywhere.",
+    "examples": [
+      "Smartphones have become ubiquitous.",
+      "The brand’s logo is ubiquitous on social media.",
+      "Wi-Fi is ubiquitous in modern cities.",
+      "His presence was ubiquitous at events.",
+      "Pollution is a ubiquitous problem."
+    ]
+  },
+  {
+    "word": "vociferous",
+    "pronunciation": "/vəʊˈsɪf.ər.əs/",
+    "partOfSpeech": "adjective",
+    "definition": "Loud and forceful in expressing opinions.",
+    "examples": [
+      "The crowd was vociferous in their protest.",
+      "She was a vociferous opponent of the bill.",
+      "He became vociferous when discussing injustice.",
+      "A vociferous debate broke out.",
+      "They were vociferous about their demands."
+    ]
+  },
+  {
+    "word": "winsome",
+    "pronunciation": "/ˈwɪn.səm/",
+    "partOfSpeech": "adjective",
+    "definition": "Charming, attractive, or pleasing in appearance or character.",
+    "examples": [
+      "She gave a winsome smile.",
+      "The child had a winsome innocence.",
+      "His winsome personality made him popular.",
+      "The puppy's winsome eyes won her over.",
+      "A winsome laugh echoed through the hall."
+    ]
+  },
+  {
+    "word": "xenophile",
+    "pronunciation": "/ˈzɛn.ə.faɪl/",
+    "partOfSpeech": "noun",
+    "definition": "A person attracted to foreign peoples, cultures, or customs.",
+    "examples": [
+      "As a xenophile, she traveled extensively.",
+      "He was a proud xenophile and polyglot.",
+      "The xenophile admired international cinema.",
+      "His xenophile interests influenced his art.",
+      "A xenophile mindset promotes cultural openness."
+    ]
+  },
+  {
+    "word": "yokel",
+    "pronunciation": "/ˈjəʊ.kəl/",
+    "partOfSpeech": "noun",
+    "definition": "An uneducated and unsophisticated person from the countryside.",
+    "examples": [
+      "The city dwellers mocked him as a yokel.",
+      "He played the role of a lovable yokel.",
+      "They dismissed the group as country yokels.",
+      "The yokel surprised them with his insight.",
+      "He was called a yokel despite his intellect."
+    ]
+  },
+  {
+    "word": "zealot",
+    "pronunciation": "/ˈzel.ət/",
+    "partOfSpeech": "noun",
+    "definition": "A person who is fanatical and uncompromising in pursuit of ideals.",
+    "examples": [
+      "He’s a zealot when it comes to tech.",
+      "Religious zealots caused unrest.",
+      "She’s a fitness zealot.",
+      "They acted like environmental zealots.",
+      "A zealot won’t tolerate dissent."
+    ]
+  },
+  {
+    "word": "abnegation",
+    "pronunciation": "/ˌæb.nɪˈɡeɪ.ʃən/",
+    "partOfSpeech": "noun",
+    "definition": "The act of renouncing or rejecting something.",
+    "examples": [
+      "His abnegation of luxury impressed many.",
+      "She lived a life of self-abnegation and service.",
+      "The monk practiced abnegation for spiritual reasons.",
+      "They viewed the abnegation of wealth as noble.",
+      "True leadership often requires personal abnegation."
+    ]
+  },
+  {
+    "word": "beleaguered",
+    "pronunciation": "/bɪˈliː.ɡəd/",
+    "partOfSpeech": "adjective",
+    "definition": "Experiencing difficulties, opposition, or criticism.",
+    "examples": [
+      "The beleaguered CEO resigned.",
+      "They came to the aid of the beleaguered city.",
+      "The company was beleaguered by lawsuits.",
+      "His beleaguered reputation never recovered.",
+      "The teacher felt beleaguered by constant complaints."
+    ]
+  },
+  {
+    "word": "capitulate",
+    "pronunciation": "/kəˈpɪtʃ.ə.leɪt/",
+    "partOfSpeech": "verb",
+    "definition": "Cease to resist an opponent or demand; surrender.",
+    "examples": [
+      "The rebels refused to capitulate.",
+      "She finally capitulated to the pressure.",
+      "The country capitulated after months of siege.",
+      "He capitulated to her demands.",
+      "They eventually capitulated without a fight."
+    ]
+  },
+  {
+    "word": "deleterious",
+    "pronunciation": "/ˌdel.əˈtɪə.ri.əs/",
+    "partOfSpeech": "adjective",
+    "definition": "Causing harm or damage.",
+    "examples": [
+      "The policy had deleterious effects.",
+      "Smoking is deleterious to your health.",
+      "His behavior had a deleterious impact on morale.",
+      "They underestimated the deleterious consequences.",
+      "The chemical has deleterious properties."
+    ]
+  },
+  {
+    "word": "effusive",
+    "pronunciation": "/ɪˈfjuː.sɪv/",
+    "partOfSpeech": "adjective",
+    "definition": "Expressing feelings of gratitude, pleasure, or approval in an unrestrained or heartfelt manner.",
+    "examples": [
+      "She was effusive in her praise.",
+      "His effusive welcome surprised them.",
+      "The host gave an effusive speech.",
+      "They were effusive about the performance.",
+      "He greeted us with effusive joy."
+    ]
+  },
+  {
+    "word": "foment",
+    "pronunciation": "/fəˈment/",
+    "partOfSpeech": "verb",
+    "definition": "To instigate or stir up (an undesirable or violent sentiment or course of action).",
+    "examples": [
+      "They tried to foment rebellion.",
+      "His speech fomented unrest.",
+      "He was accused of fomenting hatred.",
+      "The group fomented a strike.",
+      "She fomented division among the team."
+    ]
+  },
+  {
+    "word": "garrulous",
+    "pronunciation": "/ˈɡær.ə.ləs/",
+    "partOfSpeech": "adjective",
+    "definition": "Excessively talkative, especially on trivial matters.",
+    "examples": [
+      "The garrulous man annoyed everyone.",
+      "She became garrulous after drinking.",
+      "They found him too garrulous to bear.",
+      "A garrulous neighbor can be exhausting.",
+      "His garrulous tales filled the room."
+    ]
+  },
+  {
+    "word": "hubris",
+    "pronunciation": "/ˈhjuː.brɪs/",
+    "partOfSpeech": "noun",
+    "definition": "Excessive pride or self-confidence.",
+    "examples": [
+      "His hubris led to downfall.",
+      "She acted out of hubris, not wisdom.",
+      "The general’s hubris cost many lives.",
+      "Hubris makes people blind to reality.",
+      "The CEO’s hubris alienated the board."
+    ]
+  },
+  {
+    "word": "ignominious",
+    "pronunciation": "/ˌɪɡ.nəˈmɪn.i.əs/",
+    "partOfSpeech": "adjective",
+    "definition": "Deserving or causing public disgrace or shame.",
+    "examples": [
+      "He suffered an ignominious defeat.",
+      "The trial ended in ignominious exposure.",
+      "They endured an ignominious exit.",
+      "The scandal brought ignominious shame.",
+      "His actions were ignominious and cowardly."
+    ]
+  },
+  {
+    "word": "juxtapose",
+    "pronunciation": "/ˌdʒʌk.stəˈpəʊz/",
+    "partOfSpeech": "verb",
+    "definition": "To place close together for contrasting effect.",
+    "examples": [
+      "The photo juxtaposes peace and chaos.",
+      "Juxtapose the two styles for comparison.",
+      "They juxtaposed modern with classical art.",
+      "The ad juxtaposed beauty and brutality.",
+      "He juxtaposed silence with loud imagery."
+    ]
+  },
+  {
+    "word": "knell",
+    "pronunciation": "/nel/",
+    "partOfSpeech": "noun",
+    "definition": "A sound or sign announcing the death or failure of something.",
+    "examples": [
+      "The layoffs were the knell of the company.",
+      "His words sounded the knell for negotiations.",
+      "A funeral knell rang through the village.",
+      "The speech was a knell for the movement.",
+      "They heard the knell of their hopes."
+    ]
+  },
+  {
+    "word": "lucid",
+    "pronunciation": "/ˈluː.sɪd/",
+    "partOfSpeech": "adjective",
+    "definition": "Expressed clearly; easy to understand.",
+    "examples": [
+      "His explanation was lucid and helpful.",
+      "She had a lucid dream last night.",
+      "The essay is lucid and well-argued.",
+      "During his lucid moments, he was brilliant.",
+      "They appreciated the lucid instructions."
+    ]
+  },
+  {
+    "word": "moribund",
+    "pronunciation": "/ˈmɒr.ɪ.bʌnd/",
+    "partOfSpeech": "adjective",
+    "definition": "At the point of death or lacking vitality.",
+    "examples": [
+      "The moribund industry needed innovation.",
+      "He revived a moribund tradition.",
+      "The economy was moribund for years.",
+      "They injected life into a moribund team.",
+      "Her career seemed moribund."
+    ]
+  },
+  {
+    "word": "nefarious",
+    "pronunciation": "/nəˈfeə.ri.əs/",
+    "partOfSpeech": "adjective",
+    "definition": "Wicked or criminal.",
+    "examples": [
+      "The villain's nefarious scheme was exposed.",
+      "They engaged in nefarious activities.",
+      "He had a nefarious reputation.",
+      "Nefarious deeds won't go unpunished.",
+      "She uncovered their nefarious plan."
+    ]
+  },
+  {
+    "word": "obfuscate",
+    "pronunciation": "/ˈɒb.fʌ.skeɪt/",
+    "partOfSpeech": "verb",
+    "definition": "To deliberately make something unclear or difficult to understand.",
+    "examples": [
+      "Politicians often obfuscate the truth.",
+      "He tried to obfuscate his intent.",
+      "The terms obfuscate the actual cost.",
+      "Her answer only served to obfuscate.",
+      "Stop trying to obfuscate your mistake."
+    ]
+  },
+  {
+    "word": "palpable",
+    "pronunciation": "/ˈpæl.pə.bəl/",
+    "partOfSpeech": "adjective",
+    "definition": "So intense as to be almost touched or felt.",
+    "examples": [
+      "There was a palpable tension in the room.",
+      "His anger was palpable.",
+      "The silence was almost palpable.",
+      "Fear was palpable in the air.",
+      "They felt a palpable sense of loss."
+    ]
+  },
+  {
+    "word": "quandary",
+    "pronunciation": "/ˈkwɒn.dri/",
+    "partOfSpeech": "noun",
+    "definition": "A state of uncertainty over what to do.",
+    "examples": [
+      "She was in a moral quandary.",
+      "I faced a financial quandary.",
+      "Their offer put me in a quandary.",
+      "He found himself in a legal quandary.",
+      "It’s a classic ethical quandary."
+    ]
+  },
+  {
+    "word": "raze",
+    "pronunciation": "/reɪz/",
+    "partOfSpeech": "verb",
+    "definition": "To completely destroy or demolish something.",
+    "examples": [
+      "They razed the old building.",
+      "The town was razed in the war.",
+      "Protesters razed the monument.",
+      "The fire razed the warehouse.",
+      "They razed the village to the ground."
+    ]
+  },
+  {
+    "word": "sanguine",
+    "pronunciation": "/ˈsæŋ.ɡwɪn/",
+    "partOfSpeech": "adjective",
+    "definition": "Optimistic or positive, especially in a difficult situation.",
+    "examples": [
+      "She remained sanguine about the outcome.",
+      "His sanguine attitude was infectious.",
+      "Despite losses, he was sanguine.",
+      "I admire her sanguine outlook.",
+      "They were less sanguine than we were."
+    ]
+  },
+  {
+    "word": "tirade",
+    "pronunciation": "/ˈtaɪ.reɪd/",
+    "partOfSpeech": "noun",
+    "definition": "A long, angry speech of criticism or accusation.",
+    "examples": [
+      "He launched into a tirade.",
+      "Her tirade shocked everyone.",
+      "They listened to his tirade silently.",
+      "She unleashed a tirade of complaints.",
+      "The boss's tirade ended the meeting."
+    ]
+  },
+  {
+    "word": "ubiquitous",
+    "pronunciation": "/juːˈbɪk.wɪ.təs/",
+    "partOfSpeech": "adjective",
+    "definition": "Present, appearing, or found everywhere.",
+    "examples": [
+      "Smartphones are ubiquitous these days.",
+      "The brand became ubiquitous in pop culture.",
+      "Social media has made surveillance ubiquitous.",
+      "Plastic waste is ubiquitous in oceans.",
+      "He wore his ubiquitous baseball cap."
+    ]
+  },
+  {
+    "word": "vacuous",
+    "pronunciation": "/ˈvæk.ju.əs/",
+    "partOfSpeech": "adjective",
+    "definition": "Having or showing a lack of thought or intelligence; mindless.",
+    "examples": [
+      "She gave a vacuous smile.",
+      "The movie was visually stunning but vacuous.",
+      "He made vacuous remarks all evening.",
+      "Their conversation felt vacuous.",
+      "It was a vacuous claim with no basis."
+    ]
+  },
+  {
+    "word": "wane",
+    "pronunciation": "/weɪn/",
+    "partOfSpeech": "verb",
+    "definition": "To decrease in size, extent, or degree.",
+    "examples": [
+      "Her interest began to wane.",
+      "The moon will wane after tonight.",
+      "Public support has started to wane.",
+      "His fame waned over the years.",
+      "The enthusiasm waned quickly."
+    ]
+  },
+  {
+    "word": "xenophobia",
+    "pronunciation": "/ˌzen.əˈfəʊ.bi.ə/",
+    "partOfSpeech": "noun",
+    "definition": "Dislike of or prejudice against people from other countries.",
+    "examples": [
+      "Xenophobia increased during the crisis.",
+      "The law aimed to reduce xenophobia.",
+      "They condemned the xenophobic remarks.",
+      "Xenophobia can lead to violence.",
+      "His views reflected deep xenophobia."
+    ]
+  },
+  {
+    "word": "yearn",
+    "pronunciation": "/jɜːn/",
+    "partOfSpeech": "verb",
+    "definition": "Have an intense feeling of longing for something.",
+    "examples": [
+      "He yearned for freedom.",
+      "She yearned to return home.",
+      "They yearned for a simpler time.",
+      "He still yearned for her love.",
+      "I yearned to explore the world."
+    ]
+  },
+  {
+    "word": "zealous",
+    "pronunciation": "/ˈzel.əs/",
+    "partOfSpeech": "adjective",
+    "definition": "Having or showing great energy or enthusiasm.",
+    "examples": [
+      "She’s a zealous supporter of the cause.",
+      "The fans were zealous and loud.",
+      "His zealous behavior annoyed colleagues.",
+      "They took a zealous approach to reform.",
+      "A zealous volunteer led the campaign."
+    ]
+  },
+  {
+    "word": "acquiesce",
+    "pronunciation": "/ˌæk.wiˈes/",
+    "partOfSpeech": "verb",
+    "definition": "Accept something reluctantly but without protest.",
+    "examples": [
+      "She acquiesced to his demands.",
+      "He acquiesced silently to the ruling.",
+      "The board acquiesced in the changes.",
+      "They acquiesced to pressure from investors.",
+      "I acquiesced despite my doubts."
+    ]
+  },
+  {
+    "word": "belligerent",
+    "pronunciation": "/bəˈlɪdʒ.ər.ənt/",
+    "partOfSpeech": "adjective",
+    "definition": "Hostile and aggressive.",
+    "examples": [
+      "His tone became belligerent.",
+      "A belligerent attitude won’t help.",
+      "They grew belligerent after the argument.",
+      "He acted in a belligerent way.",
+      "Belligerent behavior led to his arrest."
+    ]
+  },
+  {
+    "word": "cajole",
+    "pronunciation": "/kəˈdʒəʊl/",
+    "partOfSpeech": "verb",
+    "definition": "Persuade someone to do something through flattery or coaxing.",
+    "examples": [
+      "She cajoled him into going.",
+      "He was cajoled into signing.",
+      "They cajoled donations from the crowd.",
+      "She cajoled the truth from him.",
+      "They tried to cajole us with praise."
+    ]
+  },
+  {
+    "word": "dearth",
+    "pronunciation": "/dɜːθ/",
+    "partOfSpeech": "noun",
+    "definition": "A scarcity or lack of something.",
+    "examples": [
+      "There was a dearth of evidence.",
+      "The dearth of talent was worrying.",
+      "We faced a dearth of supplies.",
+      "The town has a dearth of doctors.",
+      "A dearth of options left us stuck."
+    ]
+  },
+  {
+    "word": "enigmatic",
+    "pronunciation": "/ˌen.ɪɡˈmæt.ɪk/",
+    "partOfSpeech": "adjective",
+    "definition": "Difficult to interpret or understand; mysterious.",
+    "examples": [
+      "She had an enigmatic smile.",
+      "The ending was enigmatic and vague.",
+      "His motives remain enigmatic.",
+      "The painting has an enigmatic quality.",
+      "He gave an enigmatic reply."
+    ]
+  },
+  {
+    "word": "facade",
+    "pronunciation": "/fəˈsɑːd/",
+    "partOfSpeech": "noun",
+    "definition": "An outward appearance that hides a less pleasant reality.",
+    "examples": [
+      "His kindness was just a facade.",
+      "They kept up the facade of happiness.",
+      "The building’s facade was crumbling.",
+      "She maintained a calm facade.",
+      "It was a facade hiding insecurity."
+    ]
+  },
+  {
+    "word": "gregarious",
+    "pronunciation": "/ɡrɪˈɡeə.ri.əs/",
+    "partOfSpeech": "adjective",
+    "definition": "Fond of company; sociable.",
+    "examples": [
+      "He’s a gregarious host.",
+      "She was known for her gregarious nature.",
+      "Gregarious people thrive in teams.",
+      "The party was full of gregarious guests.",
+      "Her gregarious energy lifted the room."
+    ]
+  },
+  {
+    "word": "harangue",
+    "pronunciation": "/həˈræŋ/",
+    "partOfSpeech": "noun",
+    "definition": "A lengthy and aggressive speech.",
+    "examples": [
+      "He delivered a harsh harangue.",
+      "The protester launched into a harangue.",
+      "We listened to a political harangue.",
+      "She gave a harangue on corruption.",
+      "His harangue bored the audience."
+    ]
+  },
+  {
+    "word": "impetuous",
+    "pronunciation": "/ɪmˈpetʃ.u.əs/",
+    "partOfSpeech": "adjective",
+    "definition": "Acting quickly without thought or care.",
+    "examples": [
+      "His decision was impetuous.",
+      "She made an impetuous move.",
+      "An impetuous remark caused tension.",
+      "They rushed in with impetuous excitement.",
+      "He’s known for his impetuous temper."
+    ]
+  },
+  {
+    "word": "jocular",
+    "pronunciation": "/ˈdʒɒk.jə.lər/",
+    "partOfSpeech": "adjective",
+    "definition": "Fond of or characterized by joking; humorous.",
+    "examples": [
+      "He had a jocular attitude.",
+      "They exchanged jocular remarks.",
+      "Her jocular tone lightened the mood.",
+      "It was a jocular moment during the debate.",
+      "His jocular nature made him popular."
+    ]
+  },
+  {
+    "word": "kinetic",
+    "pronunciation": "/kɪˈnet.ɪk/",
+    "partOfSpeech": "adjective",
+    "definition": "Relating to or resulting from motion.",
+    "examples": [
+      "Kinetic energy powers the machine.",
+      "The scene had kinetic intensity.",
+      "They studied kinetic motion in physics.",
+      "The art had kinetic movement.",
+      "His kinetic gestures animated the room."
+    ]
+  },
+  {
+    "word": "limpid",
+    "pronunciation": "/ˈlɪm.pɪd/",
+    "partOfSpeech": "adjective",
+    "definition": "Completely clear; transparent.",
+    "examples": [
+      "The limpid water sparkled.",
+      "Her limpid prose impressed the editor.",
+      "A limpid stream ran through the valley.",
+      "His eyes were limpid and bright.",
+      "She sang in a limpid tone."
+    ]
+  },
+  {
+    "word": "misanthrope",
+    "pronunciation": "/ˈmɪz.ən.θrəʊp/",
+    "partOfSpeech": "noun",
+    "definition": "A person who dislikes humankind.",
+    "examples": [
+      "The old man was a misanthrope.",
+      "She called him a lonely misanthrope.",
+      "Misanthropes avoid social gatherings.",
+      "His writings revealed a misanthropic view.",
+      "The misanthrope rarely left home."
+    ]
+  },
+  {
+    "word": "nonplussed",
+    "pronunciation": "/ˌnɒnˈplʌst/",
+    "partOfSpeech": "adjective",
+    "definition": "So surprised and confused that one is unsure how to react.",
+    "examples": [
+      "He was nonplussed by the question.",
+      "The comment left her nonplussed.",
+      "They looked nonplussed and confused.",
+      "His silence left us nonplussed.",
+      "She was momentarily nonplussed."
+    ]
+  },
+  {
+    "word": "ostracize",
+    "pronunciation": "/ˈɒs.trə.saɪz/",
+    "partOfSpeech": "verb",
+    "definition": "To exclude from a society or group.",
+    "examples": [
+      "They ostracized him for his views.",
+      "She felt ostracized at work.",
+      "He was ostracized by the community.",
+      "The group ostracized dissenters.",
+      "Her behavior led to social ostracism."
+    ]
+  },
+  {
+    "word": "pragmatic",
+    "pronunciation": "/præɡˈmæt.ɪk/",
+    "partOfSpeech": "adjective",
+    "definition": "Dealing with things sensibly and realistically.",
+    "examples": [
+      "She took a pragmatic approach.",
+      "We need pragmatic solutions.",
+      "His views were pragmatic, not idealistic.",
+      "They made a pragmatic decision.",
+      "Pragmatic leaders are often effective."
+    ]
+  },
+  {
+    "word": "quell",
+    "pronunciation": "/kwel/",
+    "partOfSpeech": "verb",
+    "definition": "To put an end to, typically by force.",
+    "examples": [
+      "Police quelled the protest.",
+      "He quelled his anger.",
+      "Efforts were made to quell unrest.",
+      "They quelled the rumors quickly.",
+      "She tried to quell her nerves."
+    ]
+  },
+  {
+    "word": "reticent",
+    "pronunciation": "/ˈret.ɪ.sənt/",
+    "partOfSpeech": "adjective",
+    "definition": "Not revealing one's thoughts or feelings readily.",
+    "examples": [
+      "He was reticent about his plans.",
+      "She’s reticent in public.",
+      "The witness was reticent at first.",
+      "Reticent people can be misunderstood.",
+      "He remained reticent on the matter."
+    ]
+  },
+  {
+    "word": "serendipity",
+    "pronunciation": "/ˌser.ənˈdɪp.ə.ti/",
+    "partOfSpeech": "noun",
+    "definition": "The occurrence of events by chance in a happy or beneficial way.",
+    "examples": [
+      "Finding the book was pure serendipity.",
+      "Their meeting was a case of serendipity.",
+      "She experienced serendipity on her trip.",
+      "It was serendipity that led him there.",
+      "Serendipity favored their venture."
+    ]
+  },
+  {
+    "word": "taciturn",
+    "pronunciation": "/ˈtæs.ɪ.tɜːn/",
+    "partOfSpeech": "adjective",
+    "definition": "Reserved or uncommunicative in speech.",
+    "examples": [
+      "He was a taciturn man.",
+      "She remained taciturn during dinner.",
+      "His taciturn demeanor worried me.",
+      "Taciturn people can be deep thinkers.",
+      "A taciturn reply followed the question."
+    ]
+  },
+  {
+    "word": "unctuous",
+    "pronunciation": "/ˈʌŋk.tʃu.əs/",
+    "partOfSpeech": "adjective",
+    "definition": "Excessively or ingratiatingly flattering.",
+    "examples": [
+      "His unctuous tone irritated her.",
+      "They offered unctuous praise.",
+      "He gave an unctuous apology.",
+      "Her unctuous behavior was off-putting.",
+      "The salesman’s unctuous manner was obvious."
+    ]
+  },
+  {
+    "word": "venerate",
+    "pronunciation": "/ˈven.ər.eɪt/",
+    "partOfSpeech": "verb",
+    "definition": "Regard with great respect.",
+    "examples": [
+      "They venerate their ancestors.",
+      "The monk was venerated.",
+      "She was venerated by her peers.",
+      "We venerate great leaders of the past.",
+      "He venerated tradition deeply."
+    ]
+  },
+  {
+    "word": "wistful",
+    "pronunciation": "/ˈwɪst.fəl/",
+    "partOfSpeech": "adjective",
+    "definition": "Having a feeling of vague or regretful longing.",
+    "examples": [
+      "She gave a wistful smile.",
+      "He felt wistful about his youth.",
+      "The music made her wistful.",
+      "A wistful look crossed his face.",
+      "They spoke in wistful tones."
+    ]
+  },
+  {
+    "word": "bane",
+    "pronunciation": "/beɪn/",
+    "partOfSpeech": "noun",
+    "definition": "A cause of great distress or annoyance.",
+    "examples": [
+      "The loud music was the bane of her life.",
+      "Taxes are the bane of small businesses.",
+      "His gambling habit was the bane of his existence.",
+      "Mosquitoes are the bane of campers.",
+      "That software bug was the bane of the project."
+    ]
+  },
+  {
+    "word": "capitulate",
+    "pronunciation": "/kəˈpɪtʃ.ə.leɪt/",
+    "partOfSpeech": "verb",
+    "definition": "Cease to resist an opponent; surrender.",
+    "examples": [
+      "The army refused to capitulate.",
+      "They finally capitulated to the demands.",
+      "She capitulated under pressure.",
+      "The enemy had no choice but to capitulate.",
+      "Negotiations ended with their capitulation."
+    ]
+  },
+  {
+    "word": "delineate",
+    "pronunciation": "/dɪˈlɪn.i.eɪt/",
+    "partOfSpeech": "verb",
+    "definition": "Describe or portray precisely.",
+    "examples": [
+      "He delineated the boundaries clearly.",
+      "The rules were delineated in the document.",
+      "She delineated the proposal in detail.",
+      "They delineated the responsibilities of each role.",
+      "The plan was carefully delineated."
+    ]
+  },
+  {
+    "word": "esoteric",
+    "pronunciation": "/ˌes.əˈter.ɪk/",
+    "partOfSpeech": "adjective",
+    "definition": "Intended for or likely to be understood by only a small number of people.",
+    "examples": [
+      "The professor’s lecture was esoteric.",
+      "Quantum mechanics can seem esoteric.",
+      "His interests were highly esoteric.",
+      "Esoteric knowledge was passed down secretly.",
+      "The ritual has esoteric meaning."
+    ]
+  },
+  {
+    "word": "fortuitous",
+    "pronunciation": "/fɔːˈtʃuː.ɪ.təs/",
+    "partOfSpeech": "adjective",
+    "definition": "Happening by a lucky chance.",
+    "examples": [
+      "Their meeting was fortuitous.",
+      "It was a fortuitous discovery.",
+      "A fortuitous turn of events helped us.",
+      "The timing was fortuitous.",
+      "Winning the prize was entirely fortuitous."
+    ]
+  },
+  {
+    "word": "hapless",
+    "pronunciation": "/ˈhæp.ləs/",
+    "partOfSpeech": "adjective",
+    "definition": "Unfortunate or unlucky.",
+    "examples": [
+      "The hapless victims were rescued.",
+      "He played the hapless hero.",
+      "She pitied the hapless applicant.",
+      "The hapless dog got stuck in the fence.",
+      "He was a hapless fool in love."
+    ]
+  },
+  {
+    "word": "imbue",
+    "pronunciation": "/ɪmˈbjuː/",
+    "partOfSpeech": "verb",
+    "definition": "To inspire or permeate with a feeling or quality.",
+    "examples": [
+      "Her speech was imbued with passion.",
+      "He imbued his work with meaning.",
+      "The poem is imbued with sorrow.",
+      "Culture imbues every aspect of their lives.",
+      "The painting is imbued with emotion."
+    ]
+  },
+  {
+    "word": "juxtapose",
+    "pronunciation": "/ˌdʒʌk.stəˈpəʊz/",
+    "partOfSpeech": "verb",
+    "definition": "Place close together for contrasting effect.",
+    "examples": [
+      "The artist juxtaposed light and dark.",
+      "Juxtapose fiction with reality.",
+      "They juxtaposed modern design with tradition.",
+      "The film juxtaposed love and violence.",
+      "The editor juxtaposed the two photos."
+    ]
+  },
+  {
+    "word": "knell",
+    "pronunciation": "/nel/",
+    "partOfSpeech": "noun",
+    "definition": "A sound signaling death or the end of something.",
+    "examples": [
+      "The bell tolled the knell of the era.",
+      "His resignation was the death knell for the project.",
+      "The announcement sounded the knell of freedom.",
+      "The silence was like a funeral knell.",
+      "That moment rang the knell of his ambition."
+    ]
+  },
+  {
+    "word": "lurid",
+    "pronunciation": "/ˈlʊə.rɪd/",
+    "partOfSpeech": "adjective",
+    "definition": "Very vivid in color or presented in shocking detail.",
+    "examples": [
+      "The lurid details shocked the audience.",
+      "He described the scene in lurid terms.",
+      "Tabloids love lurid headlines.",
+      "The painting used lurid colors.",
+      "The novel was too lurid for children."
+    ]
+  },
+  {
+    "word": "maverick",
+    "pronunciation": "/ˈmæv.ər.ɪk/",
+    "partOfSpeech": "noun",
+    "definition": "An unorthodox or independent-minded person.",
+    "examples": [
+      "She’s a political maverick.",
+      "The director was a maverick in the industry.",
+      "He gained fame as a tech maverick.",
+      "Maverick thinkers often change the world.",
+      "They needed a maverick to shake things up."
+    ]
+  },
+  {
+    "word": "nefarious",
+    "pronunciation": "/nəˈfeə.ri.əs/",
+    "partOfSpeech": "adjective",
+    "definition": "Wicked or criminal.",
+    "examples": [
+      "He was involved in a nefarious scheme.",
+      "Nefarious plots were uncovered.",
+      "The villain’s actions were nefarious.",
+      "They fought against nefarious influences.",
+      "The gang committed nefarious crimes."
+    ]
+  },
+  {
+    "word": "obfuscate",
+    "pronunciation": "/ˈɒb.fʌ.skeɪt/",
+    "partOfSpeech": "verb",
+    "definition": "Render obscure or unclear.",
+    "examples": [
+      "He obfuscated the real issues.",
+      "The jargon only obfuscated the facts.",
+      "Politicians often obfuscate their positions.",
+      "The report was full of obfuscating language.",
+      "She tried to obfuscate the truth."
+    ]
+  },
+  {
+    "word": "panacea",
+    "pronunciation": "/ˌpæn.əˈsiː.ə/",
+    "partOfSpeech": "noun",
+    "definition": "A solution or remedy for all difficulties or diseases.",
+    "examples": [
+      "There’s no panacea for poverty.",
+      "They sought a panacea for corruption.",
+      "Education is often seen as a panacea.",
+      "A single policy won’t be a panacea.",
+      "The proposal was no panacea."
+    ]
+  },
+  {
+    "word": "quixotic",
+    "pronunciation": "/kwɪkˈsɒt.ɪk/",
+    "partOfSpeech": "adjective",
+    "definition": "Exceedingly idealistic; unrealistic and impractical.",
+    "examples": [
+      "He had quixotic dreams of fame.",
+      "Her plan was charming but quixotic.",
+      "They dismissed his quixotic ambitions.",
+      "The journey was a quixotic adventure.",
+      "He’s known for his quixotic behavior."
+    ]
+  },
+  {
+    "word": "rescind",
+    "pronunciation": "/rɪˈsɪnd/",
+    "partOfSpeech": "verb",
+    "definition": "Revoke, cancel, or repeal a law, order, or agreement.",
+    "examples": [
+      "The policy was rescinded.",
+      "They rescinded the offer.",
+      "The court rescinded the decision.",
+      "His invitation was rescinded.",
+      "The rule was quickly rescinded."
+    ]
+  },
+  {
+    "word": "sagacious",
+    "pronunciation": "/səˈɡeɪ.ʃəs/",
+    "partOfSpeech": "adjective",
+    "definition": "Having keen mental discernment and good judgment.",
+    "examples": [
+      "He made a sagacious comment.",
+      "She’s a sagacious leader.",
+      "His sagacious advice helped us.",
+      "They followed a sagacious plan.",
+      "A sagacious decision saved the day."
+    ]
+  },
+  {
+    "word": "tirade",
+    "pronunciation": "/ˈtaɪ.reɪd/",
+    "partOfSpeech": "noun",
+    "definition": "A long, angry speech of criticism.",
+    "examples": [
+      "He launched into a tirade.",
+      "The teacher delivered a tirade.",
+      "She was shocked by his tirade.",
+      "Tirades won't solve the issue.",
+      "The boss’s tirade stunned everyone."
+    ]
+  },
+  {
+    "word": "usurp",
+    "pronunciation": "/juːˈzɜːp/",
+    "partOfSpeech": "verb",
+    "definition": "Take a position of power illegally or by force.",
+    "examples": [
+      "He tried to usurp the throne.",
+      "They usurped the company leadership.",
+      "The general usurped power.",
+      "Rebels attempted to usurp the government.",
+      "Usurping authority never ends well."
+    ]
+  },
+  {
+    "word": "venal",
+    "pronunciation": "/ˈviː.nəl/",
+    "partOfSpeech": "adjective",
+    "definition": "Showing or motivated by susceptibility to bribery.",
+    "examples": [
+      "A venal judge is dangerous.",
+      "The regime was notoriously venal.",
+      "He was accused of venal practices.",
+      "Venal officials ruined the country.",
+      "Their actions were clearly venal."
+    ]
+  },
+  {
+    "word": "wry",
+    "pronunciation": "/raɪ/",
+    "partOfSpeech": "adjective",
+    "definition": "Using dry, especially mocking humor.",
+    "examples": [
+      "She gave a wry smile.",
+      "His wry comments made them laugh.",
+      "He has a wry sense of humor.",
+      "The book has a wry tone.",
+      "Wry observations filled the dialogue."
+    ]
+  },
+  {
+    "word": "yoke",
+    "pronunciation": "/jəʊk/",
+    "partOfSpeech": "verb",
+    "definition": "To join together or burden.",
+    "examples": [
+      "He was yoked to his duties.",
+      "The oxen were yoked together.",
+      "She felt yoked to tradition.",
+      "He yoked himself to the cause.",
+      "They were yoked by common purpose."
+    ]
+  },
+  {
+    "word": "zenith",
+    "pronunciation": "/ˈziː.nɪθ/",
+    "partOfSpeech": "noun",
+    "definition": "The highest point or most successful moment.",
+    "examples": [
+      "His career was at its zenith.",
+      "The sun reached its zenith.",
+      "She reached the zenith of fame.",
+      "The company hit its zenith in 2020.",
+      "At the zenith of the concert, fireworks exploded."
+    ]
+  },
+  {
+    "word": "abdicate",
+    "pronunciation": "/ˈæb.dɪ.keɪt/",
+    "partOfSpeech": "verb",
+    "definition": "Fail to fulfill or renounce responsibility or power.",
+    "examples": [
+      "The king abdicated the throne.",
+      "She abdicated her duties.",
+      "Leaders shouldn't abdicate responsibility.",
+      "He was forced to abdicate.",
+      "The president abdicated his role."
+    ]
+  },
+  {
+    "word": "blithe",
+    "pronunciation": "/blaɪð/",
+    "partOfSpeech": "adjective",
+    "definition": "Showing a casual indifference that is improper.",
+    "examples": [
+      "He was blithe about the risks.",
+      "Her blithe attitude irritated everyone.",
+      "Blithe disregard led to disaster.",
+      "She carried on with blithe confidence.",
+      "The decision was made with blithe ignorance."
+    ]
+  },
+  {
+    "word": "conundrum",
+    "pronunciation": "/kəˈnʌn.drəm/",
+    "partOfSpeech": "noun",
+    "definition": "A confusing and difficult problem or question.",
+    "examples": [
+      "The puzzle was a conundrum.",
+      "We faced a moral conundrum.",
+      "It’s a conundrum with no easy answer.",
+      "Solving the conundrum took weeks.",
+      "They debated the conundrum for hours."
+    ]
+  },
+  {
+    "word": "dauntless",
+    "pronunciation": "/ˈdɔːnt.ləs/",
+    "partOfSpeech": "adjective",
+    "definition": "Showing fearlessness and determination.",
+    "examples": [
+      "The dauntless warrior charged ahead.",
+      "She remained dauntless under pressure.",
+      "He had a dauntless spirit.",
+      "Dauntless effort overcame the challenge.",
+      "They admired his dauntless courage."
+    ]
+  },
+  {
+    "word": "ephemeral",
+    "pronunciation": "/ɪˈfem.ər.əl/",
+    "partOfSpeech": "adjective",
+    "definition": "Lasting for a very short time.",
+    "examples": [
+      "Beauty is often ephemeral.",
+      "The moment was fleeting and ephemeral.",
+      "Fame can be ephemeral.",
+      "The joy was ephemeral but sweet.",
+      "They captured the ephemeral light perfectly."
+    ]
+  },
+  {
+    "word": "altruism",
+    "pronunciation": "/ˈæltruˌɪzəm/",
+    "partOfSpeech": "noun",
+    "definition": "Selfless concern for the well-being of others.",
+    "examples": [
+      "Her altruism led her to volunteer every weekend.",
+      "He acted out of pure altruism, expecting nothing in return.",
+      "Altruism is a valued trait in many cultures.",
+      "The organization was built on the principle of altruism.",
+      "His altruism made him a local hero."
+    ]
+  },
+  {
+    "word": "pedantic",
+    "pronunciation": "/pəˈdæntɪk/",
+    "partOfSpeech": "adjective",
+    "definition": "Excessively concerned with minor details or rules.",
+    "examples": [
+      "His pedantic nature made group work difficult.",
+      "She gave a pedantic lecture on grammar.",
+      "The review was criticized for being too pedantic.",
+      "Pedantic arguments can drain a conversation.",
+      "He had a pedantic obsession with punctuation."
+    ]
+  },
+  {
+    "word": "rescind",
+    "pronunciation": "/rɪˈsɪnd/",
+    "partOfSpeech": "verb",
+    "definition": "To revoke, cancel, or repeal a law, order, or agreement.",
+    "examples": [
+      "The company decided to rescind the job offer.",
+      "They voted to rescind the outdated policy.",
+      "She had to rescind her statement.",
+      "The court may rescind the decision.",
+      "He was forced to rescind the contract."
+    ]
+  },
+  {
+    "word": "intrepid",
+    "pronunciation": "/ɪnˈtrɛpɪd/",
+    "partOfSpeech": "adjective",
+    "definition": "Fearless; adventurous.",
+    "examples": [
+      "The intrepid explorer ventured into uncharted territory.",
+      "She showed intrepid spirit during the crisis.",
+      "Intrepid journalists exposed the truth.",
+      "He was an intrepid traveler.",
+      "The intrepid climbers reached the summit."
+    ]
+  },
+  {
+    "word": "gregarious",
+    "pronunciation": "/ɡrɪˈɡɛəriəs/",
+    "partOfSpeech": "adjective",
+    "definition": "Sociable; enjoying the company of others.",
+    "examples": [
+      "He's known for his gregarious personality.",
+      "Gregarious animals often live in groups.",
+      "She became more gregarious after college.",
+      "Gregarious people thrive in social events.",
+      "The gregarious host made everyone feel welcome."
+    ]
+  },
+  {
+    "word": "capitulate",
+    "pronunciation": "/kəˈpɪtjʊleɪt/",
+    "partOfSpeech": "verb",
+    "definition": "To cease to resist an opponent or demand; to surrender.",
+    "examples": [
+      "They were forced to capitulate after the long siege.",
+      "He refused to capitulate to peer pressure.",
+      "The rebels eventually capitulated.",
+      "She finally capitulated to her parents’ wishes.",
+      "The manager refused to capitulate to unreasonable demands."
+    ]
+  },
+  {
+    "word": "cacophony",
+    "pronunciation": "/kəˈkɒfəni/",
+    "partOfSpeech": "noun",
+    "definition": "A harsh, discordant mixture of sounds.",
+    "examples": [
+      "The cacophony of car horns filled the street.",
+      "Her thoughts were drowned out by the cacophony.",
+      "It was a cacophony of conflicting voices.",
+      "They were startled by the sudden cacophony.",
+      "The room echoed with the cacophony of arguments."
+    ]
+  },
+  {
+    "word": "quixotic",
+    "pronunciation": "/kwɪkˈsɒtɪk/",
+    "partOfSpeech": "adjective",
+    "definition": "Exceedingly idealistic; unrealistic and impractical.",
+    "examples": [
+      "His quixotic quest for perfection was exhausting.",
+      "She had a quixotic dream of world peace.",
+      "The plan was dismissed as quixotic.",
+      "Quixotic ideals don’t always translate into action.",
+      "Their approach was charming but quixotic."
+    ]
+  },
+  {
+    "word": "laconic",
+    "pronunciation": "/ləˈkɒnɪk/",
+    "partOfSpeech": "adjective",
+    "definition": "Using very few words.",
+    "examples": [
+      "He gave a laconic response.",
+      "Her laconic wit was legendary.",
+      "The report was laconic but effective.",
+      "They admired his laconic communication style.",
+      "She preferred laconic replies over long explanations."
+    ]
+  },
+  {
+    "word": "recalcitrant",
+    "pronunciation": "/rɪˈkælsɪtrənt/",
+    "partOfSpeech": "adjective",
+    "definition": "Resisting authority or control; uncooperative.",
+    "examples": [
+      "The recalcitrant student refused to comply.",
+      "He faced a recalcitrant audience.",
+      "They dealt with a recalcitrant bureaucracy.",
+      "She was known for her recalcitrant stance.",
+      "His recalcitrant attitude got him into trouble."
+    ]
+  },
+  {
+    "word": "zephyr",
+    "pronunciation": "/ˈzɛfər/",
+    "partOfSpeech": "noun",
+    "definition": "A soft, gentle breeze.",
+    "examples": [
+      "A light zephyr blew through the trees.",
+      "She felt the cool zephyr on her face.",
+      "The curtains fluttered in the evening zephyr.",
+      "A zephyr carried the scent of the ocean.",
+      "The desert rarely saw such a pleasant zephyr."
+    ]
+  },
+  {
+    "word": "limerence",
+    "pronunciation": "/ˈlɪmərəns/",
+    "partOfSpeech": "noun",
+    "definition": "The state of being infatuated or obsessed with another person.",
+    "examples": [
+      "She was lost in limerence over her crush.",
+      "Limerence blinded him to the reality of the situation.",
+      "The intensity of limerence faded over time.",
+      "Limerence can feel overwhelming and irrational.",
+      "He wrote poems fueled by limerence."
+    ]
+  },
+  {
+    "word": "panacea",
+    "pronunciation": "/ˌpænəˈsiːə/",
+    "partOfSpeech": "noun",
+    "definition": "A solution or remedy for all problems or difficulties.",
+    "examples": [
+      "Technology is not a panacea for all problems.",
+      "They sought a panacea for economic troubles.",
+      "No panacea exists for human suffering.",
+      "He promoted the policy as a panacea.",
+      "Beware of leaders offering a panacea."
+    ]
+  },
+  {
+    "word": "mellifluous",
+    "pronunciation": "/məˈlɪfluəs/",
+    "partOfSpeech": "adjective",
+    "definition": "Sweet or musical; pleasant to hear.",
+    "examples": [
+      "Her mellifluous voice calmed the baby.",
+      "The narrator had a mellifluous tone.",
+      "Music flowed in a mellifluous stream.",
+      "His mellifluous words captivated the audience.",
+      "The melody was smooth and mellifluous."
+    ]
+  },
+  {
+    "word": "noisome",
+    "pronunciation": "/ˈnɔɪsəm/",
+    "partOfSpeech": "adjective",
+    "definition": "Having an extremely offensive smell; unpleasant.",
+    "examples": [
+      "The noisome fumes filled the lab.",
+      "They covered their noses against the noisome stench.",
+      "The swamp emitted a noisome odor.",
+      "Noisome conditions plagued the camp.",
+      "The cellar had a noisome air."
+    ]
+  },
+  {
+    "word": "ossify",
+    "pronunciation": "/ˈɒsɪfaɪ/",
+    "partOfSpeech": "verb",
+    "definition": "To become rigid or inflexible in habits or ideas.",
+    "examples": [
+      "His opinions began to ossify with age.",
+      "Bureaucracies tend to ossify over time.",
+      "Innovation is hard when systems ossify.",
+      "Don’t let your mindset ossify.",
+      "The law ossified instead of evolving."
+    ]
+  },
+  {
+    "word": "susurrus",
+    "pronunciation": "/suːˈsʌrəs/",
+    "partOfSpeech": "noun",
+    "definition": "Whispering, murmuring, or rustling sound.",
+    "examples": [
+      "A susurrus of leaves surrounded them.",
+      "She fell asleep to the susurrus of waves.",
+      "The forest echoed with a soft susurrus.",
+      "He strained to hear the susurrus of voices.",
+      "The susurrus of silk brushing the floor was calming."
+    ]
+  },
+  {
+    "word": "peregrinate",
+    "pronunciation": "/ˈpɛrɪɡrɪneɪt/",
+    "partOfSpeech": "verb",
+    "definition": "To travel or wander from place to place.",
+    "examples": [
+      "They peregrinated across continents.",
+      "He enjoyed the freedom of peregrinating.",
+      "Writers often peregrinate for inspiration.",
+      "They spent years peregrinating the globe.",
+      "To peregrinate is to learn through movement."
+    ]
+  },
+  {
+    "word": "ephemeral",
+    "pronunciation": "/ɪˈfɛmərəl/",
+    "partOfSpeech": "adjective",
+    "definition": "Lasting for a very short time.",
+    "examples": [
+      "Fame can be ephemeral.",
+      "The beauty of a sunset is ephemeral.",
+      "Their romance was passionate but ephemeral.",
+      "Ephemeral trends come and go.",
+      "Life itself is ephemeral."
+    ]
+  },
+  {
+    "word": "crepuscular",
+    "pronunciation": "/krɪˈpʌskjʊlər/",
+    "partOfSpeech": "adjective",
+    "definition": "Relating to twilight.",
+    "examples": [
+      "Crepuscular animals are active at dusk.",
+      "The forest glowed in crepuscular light.",
+      "She loved crepuscular walks.",
+      "Crepuscular skies framed the mountains.",
+      "The crepuscular mood settled in."
+    ]
+  },
+  {
+    "word": "lugubrious",
+    "pronunciation": "/luːˈɡuːbriəs/",
+    "partOfSpeech": "adjective",
+    "definition": "Looking or sounding sad and dismal.",
+    "examples": [
+      "He wore a lugubrious expression.",
+      "The music took on a lugubrious tone.",
+      "She gave a lugubrious sigh.",
+      "His lugubrious voice dampened the mood.",
+      "They walked in lugubrious silence."
+    ]
+  },
+  {
+    "word": "ineffable",
+    "pronunciation": "/ɪnˈɛfəbl/",
+    "partOfSpeech": "adjective",
+    "definition": "Too great or extreme to be expressed in words.",
+    "examples": [
+      "The beauty of the sunrise was ineffable.",
+      "She was overcome with ineffable joy.",
+      "His loss left an ineffable void.",
+      "An ineffable feeling gripped the crowd.",
+      "Their connection was ineffable."
+    ]
+  },
+  {
+    "word": "epistolary",
+    "pronunciation": "/ɪˈpɪstələri/",
+    "partOfSpeech": "adjective",
+    "definition": "Relating to or denoting the writing of letters.",
+    "examples": [
+      "They had an epistolary relationship.",
+      "The novel took an epistolary format.",
+      "She enjoyed epistolary correspondence.",
+      "The epistolary style added intimacy.",
+      "His epistolary talent was unmatched."
+    ]
+  },
+  {
+    "word": "panegyric",
+    "pronunciation": "/ˌpænəˈdʒɪrɪk/",
+    "partOfSpeech": "noun",
+    "definition": "A public speech or published text in praise of someone or something.",
+    "examples": [
+      "He delivered a panegyric at her retirement.",
+      "The poem was a panegyric to nature.",
+      "A panegyric followed the award ceremony.",
+      "They printed a panegyric in her honor.",
+      "His panegyric touched everyone’s heart."
+    ]
+  },
+  {
+    "word": "quotidian",
+    "pronunciation": "/kwəʊˈtɪdɪən/",
+    "partOfSpeech": "adjective",
+    "definition": "Ordinary or everyday, especially when mundane.",
+    "examples": [
+      "She found joy in quotidian routines.",
+      "The artist captured quotidian scenes.",
+      "His life was filled with quotidian tasks.",
+      "Quotidian stress can accumulate unnoticed.",
+      "They discussed the quotidian details of life."
+    ]
+  },
+  {
+    "word": "sagacious",
+    "pronunciation": "/səˈɡeɪʃəs/",
+    "partOfSpeech": "adjective",
+    "definition": "Having or showing keen mental discernment and good judgment.",
+    "examples": [
+      "Her sagacious insights saved the company.",
+      "A sagacious leader listens more than speaks.",
+      "The judge gave a sagacious ruling.",
+      "Sagacious advice is often simple.",
+      "He was a sagacious mentor."
+    ]
+  },
+  {
+    "word": "puerile",
+    "pronunciation": "/ˈpjʊəraɪl/",
+    "partOfSpeech": "adjective",
+    "definition": "Childishly silly and trivial.",
+    "examples": [
+      "His puerile jokes fell flat.",
+      "She dismissed it as a puerile argument.",
+      "They engaged in puerile name-calling.",
+      "The humor was puerile at best.",
+      "Avoid puerile distractions in serious discussions."
+    ]
+  },
+  {
+    "word": "threnody",
+    "pronunciation": "/ˈθrɛnədi/",
+    "partOfSpeech": "noun",
+    "definition": "A song, hymn, or poem of mourning composed or performed as a memorial to a dead person.",
+    "examples": [
+      "The choir sang a threnody for the victims.",
+      "Her lyrics became a threnody for lost love.",
+      "The funeral ended with a haunting threnody.",
+      "His work read like a modern threnody.",
+      "She penned a threnody to her late father."
+    ]
+  },
+  {
+    "word": "uxorious",
+    "pronunciation": "/ʌkˈsɔːrɪəs/",
+    "partOfSpeech": "adjective",
+    "definition": "Having or showing an excessive or submissive fondness for one's wife.",
+    "examples": [
+      "He was humorously described as uxorious.",
+      "His uxorious behavior surprised his friends.",
+      "She teased him about his uxorious devotion.",
+      "An uxorious man, he doted on her every word.",
+      "They mocked his uxorious nature playfully."
+    ]
+  },
+  {
+    "word": "antediluvian",
+    "pronunciation": "/ˌæntɪdɪˈluːvɪən/",
+    "partOfSpeech": "adjective",
+    "definition": "Ridiculously old-fashioned or outdated.",
+    "examples": [
+      "His views were antediluvian.",
+      "The machine was an antediluvian relic.",
+      "They laughed at the antediluvian dress code.",
+      "An antediluvian rule blocked the plan.",
+      "He had antediluvian ideas about gender roles."
+    ]
+  }
+]
