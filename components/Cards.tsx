@@ -1,6 +1,6 @@
 import { FontAwesome5 } from "@expo/vector-icons";
 import * as Haptics from "expo-haptics";
-import React, { useRef, useState } from "react";
+import React, { useCallback, useMemo, useRef, useState } from "react";
 import {
   Animated,
   Dimensions,
@@ -11,8 +11,12 @@ import {
 } from "react-native";
 import Card from "./Card";
 
-const SCREEN_WIDTH = Dimensions.get("window").width;
-const SCREEN_HEIGHT = Dimensions.get("window").height;
+const { width: SCREEN_WIDTH, height: SCREEN_HEIGHT } = Dimensions.get("window");
+
+const CARD_TOP = SCREEN_HEIGHT / 2 - 340;
+const CARD_WIDTH = SCREEN_WIDTH - 40;
+const DICE_SPIN_DURATION = 600;
+const SWIPE_THRESHOLD = 100;
 
 const COLORS = [
   "#FFE0E9",
@@ -26,128 +30,166 @@ const COLORS = [
   "#FCE4EC",
 ];
 
+const getRandomColor = () => COLORS[Math.floor(Math.random() * COLORS.length)];
+
 const Cards = ({ cards }: { cards: any[] }) => {
-  if (!cards.length) return null;
+  const [currentIndex, setCurrentIndex] = useState(0);
   const [isAnimating, setIsAnimating] = useState(false);
-  // Assign random background color to each card once
-  const coloredCards = useRef(
-    cards.map((card) => ({
-      ...card,
-      backgroundColor: COLORS[Math.floor(Math.random() * COLORS.length)],
-    }))
-  ).current;
 
-  const currentIndexRef = useRef(0);
-  const [currentIndex, _setCurrentIndex] = useState(0);
   const position = useRef(new Animated.ValueXY()).current;
-
-  // Animation for dice rotation
+  const nextCardScale = useRef(new Animated.Value(0.92)).current;
   const rotateAnim = useRef(new Animated.Value(0)).current;
 
-  const setCurrentIndex = (valFn: number | ((prev: number) => number)) => {
-    const newIndex =
-      typeof valFn === "function" ? valFn(currentIndexRef.current) : valFn;
-    currentIndexRef.current = newIndex;
-    _setCurrentIndex(newIndex);
-  };
+  // Memoize colored cards
+  const coloredCards = useMemo(
+    () =>
+      cards.map((card) => ({
+        ...card,
+        backgroundColor: getRandomColor(),
+      })),
+    [cards]
+  );
 
-  // PanResponder for swipe left/right cards
-  const panResponder = useRef(
-    PanResponder.create({
-      onMoveShouldSetPanResponder: (_, gesture) => {
-        return Math.abs(gesture.dx) > 10;
-      },
-      onPanResponderMove: (_, gesture) => {
-        position.setValue({ x: gesture.dx, y: 0 });
-      },
-      onPanResponderRelease: (_, gesture) => {
-        const index = currentIndexRef.current;
-        const SWIPE_THRESHOLD = 0.25 * SCREEN_WIDTH;
+  // Fast swipe animation
+  const swipeCard = useCallback(
+    (direction: "left" | "right") => {
+      const canGoBack = direction === "right" && currentIndex > 0;
+      const canGoForward =
+        direction === "left" && currentIndex < coloredCards.length - 1;
 
-        if (gesture.dx > SWIPE_THRESHOLD) {
-          if (index > 0) {
-            Animated.timing(position, {
-              toValue: { x: SCREEN_WIDTH, y: 0 },
-              duration: 200,
-              useNativeDriver: true,
-            }).start(() => {
-              Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
-              setCurrentIndex(index - 1);
-              position.setValue({ x: 0, y: 0 });
-            });
+      if (!canGoBack && !canGoForward) {
+        // Snap back fast
+        Animated.spring(position, {
+          toValue: { x: 0, y: 0 },
+          tension: 100,
+          friction: 12,
+          useNativeDriver: true,
+        }).start();
+        return;
+      }
+
+      setIsAnimating(true);
+      const exitX =
+        direction === "left" ? -SCREEN_WIDTH * 1.2 : SCREEN_WIDTH * 1.2;
+
+      // Fast exit animation
+      Animated.parallel([
+        Animated.timing(position, {
+          toValue: { x: exitX, y: 0 },
+          duration: 200,
+          useNativeDriver: true,
+        }),
+        Animated.spring(nextCardScale, {
+          toValue: 1,
+          tension: 100,
+          friction: 10,
+          useNativeDriver: true,
+        }),
+      ]).start(() => {
+        position.setValue({ x: 0, y: 0 });
+        nextCardScale.setValue(0.92);
+        setCurrentIndex(canGoForward ? currentIndex + 1 : currentIndex - 1);
+        setIsAnimating(false);
+        Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
+      });
+    },
+    [currentIndex, coloredCards.length, position, nextCardScale]
+  );
+
+  // Pan responder
+  const panResponder = useMemo(
+    () =>
+      PanResponder.create({
+        onStartShouldSetPanResponder: () => !isAnimating,
+        onMoveShouldSetPanResponder: (_, { dx, dy }) => {
+          return (
+            !isAnimating && Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 5
+          );
+        },
+        onPanResponderMove: (_, { dx, dy }) => {
+          position.setValue({ x: dx, y: dy * 0.1 });
+
+          // Scale next card as user swipes
+          const progress = Math.min(Math.abs(dx) / SCREEN_WIDTH, 1);
+          const scale = 0.92 + 0.08 * progress;
+          nextCardScale.setValue(scale);
+        },
+        onPanResponderRelease: (_, { dx, vx }) => {
+          const velocitySwipe = Math.abs(vx) > 0.5;
+          const distanceSwipe = Math.abs(dx) > SWIPE_THRESHOLD;
+
+          if (velocitySwipe || distanceSwipe) {
+            swipeCard(dx > 0 ? "right" : "left");
           } else {
-            Animated.spring(position, {
-              toValue: { x: 0, y: 0 },
-              useNativeDriver: true,
-            }).start();
+            // Snap back
+            Animated.parallel([
+              Animated.spring(position, {
+                toValue: { x: 0, y: 0 },
+                tension: 100,
+                friction: 12,
+                useNativeDriver: true,
+              }),
+              Animated.spring(nextCardScale, {
+                toValue: 0.92,
+                tension: 100,
+                friction: 12,
+                useNativeDriver: true,
+              }),
+            ]).start();
           }
-        } else if (gesture.dx < -SWIPE_THRESHOLD) {
-          if (index < coloredCards.length - 1) {
-            Animated.timing(position, {
-              toValue: { x: -SCREEN_WIDTH, y: 0 },
-              duration: 200,
-              useNativeDriver: true,
-            }).start(() => {
-              Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
-              setCurrentIndex(index + 1);
-              position.setValue({ x: 0, y: 0 });
-            });
-          } else {
-            Animated.spring(position, {
-              toValue: { x: 0, y: 0 },
-              useNativeDriver: true,
-            }).start();
-          }
-        } else {
-          Animated.spring(position, {
-            toValue: { x: 0, y: 0 },
-            useNativeDriver: true,
-          }).start();
-        }
-      },
-    })
-  ).current;
+        },
+      }),
+    [isAnimating, position, nextCardScale, swipeCard]
+  );
 
   // Dice press handler
-  const handleDicePress = () => {
-    if (isAnimating) return; // block rapid clicks
-    rotateAnim.setValue(0);
+  const handleDicePress = useCallback(() => {
+    if (isAnimating) return;
 
-    // Haptic feedback
+    setIsAnimating(true);
+    rotateAnim.setValue(0);
     Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
 
-    // Spin dice 360deg
     Animated.timing(rotateAnim, {
       toValue: 1,
-      duration: 600,
+      duration: DICE_SPIN_DURATION,
       useNativeDriver: true,
     }).start(() => {
-      // Pick new random index different from current
-      let newIndex = currentIndexRef.current;
-      while (newIndex === currentIndexRef.current) {
-        newIndex = Math.floor(Math.random() * cards.length);
-      }
-      setCurrentIndex(newIndex);
+      const availableIndices = Array.from(
+        { length: coloredCards.length },
+        (_, i) => i
+      ).filter((i) => i !== currentIndex);
+
+      const randomIndex =
+        availableIndices[Math.floor(Math.random() * availableIndices.length)];
+
+      position.setValue({ x: 0, y: 0 });
+      nextCardScale.setValue(0.92);
+      setCurrentIndex(randomIndex);
       rotateAnim.setValue(0);
       setIsAnimating(false);
     });
-  };
+  }, [
+    isAnimating,
+    currentIndex,
+    coloredCards.length,
+    rotateAnim,
+    position,
+    nextCardScale,
+  ]);
+
+  if (!coloredCards.length) return null;
 
   const currentCard = coloredCards[currentIndex];
   const nextCard = coloredCards[currentIndex + 1];
 
-  const nextCardStyle = {
-    position: "absolute" as const,
-    top: SCREEN_HEIGHT / 2 - 380,
-    left: 30,
-    width: SCREEN_WIDTH - 40,
-    opacity: 0.5,
-    transform: [{ scale: 0.95 }],
-    zIndex: 1,
-  };
+  const rotate = position.x.interpolate({
+    inputRange: [-SCREEN_WIDTH / 2, 0, SCREEN_WIDTH / 2],
+    outputRange: ["-12deg", "0deg", "12deg"],
+    extrapolate: "clamp",
+  });
 
-  // Interpolate rotation to degrees
-  const rotate = rotateAnim.interpolate({
+  const diceRotate = rotateAnim.interpolate({
     inputRange: [0, 1],
     outputRange: ["0deg", "360deg"],
   });
@@ -155,19 +197,27 @@ const Cards = ({ cards }: { cards: any[] }) => {
   return (
     <>
       <View style={styles.container}>
+        {/* Next card - always visible underneath */}
         {nextCard && (
-          <View style={nextCardStyle}>
+          <Animated.View
+            style={[
+              styles.nextCard,
+              {
+                transform: [{ scale: nextCardScale }],
+              },
+            ]}
+          >
             <Card card={nextCard} backgroundColor={nextCard.backgroundColor} />
-          </View>
+          </Animated.View>
         )}
 
+        {/* Current card - interactive */}
         <Animated.View
           {...panResponder.panHandlers}
           style={[
-            styles.card,
+            styles.currentCard,
             {
-              transform: position.getTranslateTransform(),
-              zIndex: 10,
+              transform: [...position.getTranslateTransform(), { rotate }],
             },
           ]}
         >
@@ -178,21 +228,14 @@ const Cards = ({ cards }: { cards: any[] }) => {
         </Animated.View>
       </View>
 
-      <View
-        style={{
-          alignItems: "center",
-          justifyContent: "center",
-          marginVertical: 20,
-        }}
-      >
-        <TouchableOpacity onPress={handleDicePress} activeOpacity={0.7}>
+      <View style={styles.diceContainer}>
+        <TouchableOpacity
+          onPress={handleDicePress}
+          activeOpacity={0.7}
+          disabled={isAnimating}
+        >
           <Animated.View
-            style={{
-              backgroundColor: "black",
-              borderRadius: 50,
-              padding: 16,
-              transform: [{ rotate }],
-            }}
+            style={[styles.diceButton, { transform: [{ rotate: diceRotate }] }]}
           >
             <FontAwesome5 name="dice" size={34} color="white" />
           </Animated.View>
@@ -206,11 +249,28 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
   },
-  card: {
+  currentCard: {
     position: "absolute",
-    width: SCREEN_WIDTH - 40,
-    top: SCREEN_HEIGHT / 2 - 300,
-    zIndex: 2,
+    width: CARD_WIDTH,
+    top: CARD_TOP,
+    left: 20,
+    zIndex: 10,
+  },
+  nextCard: {
+    position: "absolute",
+    top: CARD_TOP - 30,
+    width: CARD_WIDTH,
+    zIndex: 1,
+  },
+  diceContainer: {
+    alignItems: "center",
+    justifyContent: "center",
+    marginVertical: 20,
+  },
+  diceButton: {
+    backgroundColor: "black",
+    borderRadius: 50,
+    padding: 16,
   },
 });
 

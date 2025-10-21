@@ -64,13 +64,6 @@ const Card = ({
     Speech.stop();
     if (!card.word || !card.definition) return;
 
-    // const examplesText =
-    //   card.examples && card.examples.length
-    //     ? "Examples: " +
-    //       card.examples.map((ex: string) => ex + ".").join(" ... ") // three dots for longer pause
-    //     : "";
-
-    // const speech = `${card.word}. Definition: ${card.definition}. ${examplesText}`;
     const speech = card.word;
 
     Speech.speak(speech, {
@@ -91,7 +84,6 @@ const Card = ({
 
       const updated = [...parsed, card];
       await AsyncStorage.setItem("favorites", JSON.stringify(updated));
-      //   await AsyncStorage.removeItem("favorites");
     } catch (e) {
       console.error("Failed to add to favorites:", e);
     } finally {

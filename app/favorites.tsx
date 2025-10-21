@@ -51,12 +51,15 @@ export default function Favorites() {
 
   return (
     <SafeAreaView className="px-4 flex-1">
-      <View className="items-center flex-row gap-4">
+      <TouchableOpacity
+        onPress={() => router.back()}
+        className="items-center flex-row gap-4"
+      >
         <AntDesign name="arrowleft" size={24} color="black" />
         <Text className="text-black font-semibold text-2xl font-sorasemibold">
           Favorites
         </Text>
-      </View>
+      </TouchableOpacity>
 
       {data.length === 0 ? (
         <View className="flex-1 h-full items-center justify-start gap-6">
